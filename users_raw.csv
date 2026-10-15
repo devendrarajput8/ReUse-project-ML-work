@@ -1,0 +1,733 @@
+user_id,name,email,gender,branch,year_of_study,hostel,role,registered_on,is_verified,prev_exchanges,prev_late_returns
+U0382,MEERA NAIR,meera.nair95@campus.edu.in,F,ME,2,Hostel D,student,2024-11-10,True,3.0,1.0
+U0012,Ayesha Sharma,ayesha.sharma@campus.edu.in,F,CS,First Year,Day Scholar,Student,30/12/2025,,1.0,
+U0628,Ananya Khan,ananya.khan17@campus.edu.in,F,EE,1,Hostel D,student,28-12-25,True,2.0,0.0
+U0383,Vikram Khan,vikram.khancampus.edu.in,,ME,4,Hostel E,student,2026-06-23,no,3.0,1.0
+U0692,Nikhil Bansal,nikhil.bansal@campus.edu.in,M,IT,Final Year,Day Scholar,student,24 Feb 2025,Y,4.0,1.0
+U0413,Harsh Tiwari,harsh.tiwari7@campus.edu.in,Male,CSE,4,Hostel A,STUDENT,15/02/2026,N,4.0,2.0
+U0170,MEERA VERMA,meera.verma6@campus.edu.in,,Mechanical,2,Hostel D,student,2025-10-16,True,5.0,0.0
+U0291,Mohit Khan,mohit.khan@campus.edu.in,M,CSE,Second Year,Hostel B,student,2024-10-20,no,1.0,1.0
+U0053,Pooja Jain,pooja.jain56@campus.edu.in,F,Chemical,4,hostel d,student,01/11/2024,yes,,1.0
+U0629,simran gupta,simran.gupta91@campus.edu.in,F,it,4,Hostel C,student,14 Feb 2026,N,3.0,2.0
+U0395,Arjun Patel,arjun.patel89@campus.edu.in,M,Computer Science,4,,Student,03/01/2025,yes,3.0,2.0
+U0571,Sakshi Agarwal,sakshi.agarwal50@campus.edu.in,,Computer Science,3,Hostel C,student,26/11/2025,,2.0,1.0
+U0603,Amit Yadav,amit.yadav93@campus.edu.in,M,it,4th,hostel e,STUDENT,2025-01-30,yes,3.0,
+U0689,pooja verma,pooja.verma@campus.edu.in,Female,Civil,2nd,Hostel C,student,2026-08-26,Y,5.0,0.0
+U0708,Priya Saxena,priya.saxena4@campus.edu.in,Female,C.S.E,3rd,Hostel D,Student,2024-08-08,,4.0,1.0
+U0482,Shreya Yadav,shreya.yadav@campus.edu.in,Female,CSE,3,Hostel D,student,18/05/2026,,2.0,
+U0534,Divya Nair,divya.nair73@campus.edu.in,F,ECE,3,Hostel D,student,22/01/2025,1,2.0,0.0
+U0326,rohan yadav,rohan.yadav@campus.edu.in,M,CSE,4,Day Scholar,student,2026-02-01,1,4.0,0.0
+U0572,Kunal Nair,kunal.nair52@campus.edu.in,M,CSE,3,Hostel B,STUDENT,2025-03-18,,4.0,0.0
+U0423,Priya Nair,priya.nair@campus.edu.in,F,Electrical,4 ,Hostel C,student,13 Jun 2026,Y,4.0,0.0
+U0208,Karan Pandey,karan.pandey28@campus.edu.in,Male,ECE,1st,Hostel B,student,09-09-25,1,1.0,0.0
+U0310,Ananya Mishra,ananya.mishra@campus.edu.in,Female,Chemical,2,Hostel C,student,2024-12-11,no,,0.0
+U0080,Amit Das,amit.das58@campus.edu.in,Male,,Second Year,hostel a,Student,21 Dec 2024,yes,1.0,0.0
+U0607,Vikram Singh,vikram.singhcampus.edu.in,M,ME,4,Hostel A,student,14/09/2024,1,5.0,0.0
+U0213,Ayesha Khan,ayesha.khan56@campus.edu.in,F,EE,1,Hostel C,student,2026-07-31,True,0.0,0.0
+U0387,Nisha Sharma,nisha.sharma@campus.edu.in,F,,First Year,Day Scholar,student,2024-11-05,N,,0.0
+U0464,Isha Reddy,isha.reddy@campus.edu.in,F,CSE,2,Hostel C,student,04/08/2026,Y,0.0,0.0
+U0352,Arjun Jain,arjun.jain63@campus.edu.in,M,C.S.E,2,Hostel B,STUDENT,2025-03-21,0,3.0,2.0
+U0473,Kunal Yadav,kunal.yadav@campus.edu.in,M,ECE,3,Hostel E,student,2026-07-25,yes,1.0,0.0
+U0460,Amit Mishra,amit.mishra48@campus.edu.in,M,it,4,hostel a,student,01/08/2026,False,,0.0
+U0094,Saurabh Joshi,saurabh.joshi@campus.edu.in,Male,ME,1 ,Hostel A,student,22/01/2025,N,1.0,0.0
+U0428,Saurabh Singh,saurabh.singh@campus.edu.in,M,CE,,Hostel E,student,2025-12-14,True,0.0,0.0
+U0618,Sneha Singh,sneha.singh94@campus.edu.in,F,ECE,1,day scholar,STUDENT,18 Jul 2025,,0.0,0.0
+U0261,Nikhil Joshi,nikhil.joshi@campus.edu.in,M,CSE,2nd,Hostel E,student,2025-04-15,no,2.0,0.0
+U0532,Pallavi Das,pallavi.das@campus.edu.in,F,cse,2,Hostel C,student,2025-04-22,False,1.0,0.0
+U0388,Priya Singh,priya.singh@campus.edu.in,F,CSE,4,,student,2026-05-09,yes,2.0,2.0
+U0577,Priya Bansal,priya.bansal66@campus.edu.in,F,Computer Science,1,hostel c,student,2026-04-01,0,0.0,0.0
+U0399,Pranav Saxena,,Male,,,Hostel B,student,29/05/2025,,3.0,0.0
+U0507,sakshi gupta,sakshi.gupta@campus.edu.in,F,IT,1,Hostel C,student,02 Feb 2025,1,1.0,1.0
+U0154,Simran Jain,,F,IT,4 ,Day Scholar,STUDENT,2026-06-24,True,3.0,0.0
+U0379,Amit Nair,amit.nair68@campus.edu.in,M,ece,4,hostel b,student,2026-06-18,Y,6.0,1.0
+U0135,Kunal Das,kunal.das@campus.edu.in,M,Mechanical,3,Hostel E,student,14 Mar 2025,False,4.0,0.0
+U0402,Ayesha Nair,ayesha.nair15@campus.edu.in,Female,Chemical Engg,4th,hostel d,Student,09/10/2024,yes,0.0,0.0
+U0153,Vikram Sharma,vikram.sharma@campus.edu.in,M,BBA,4th,Hostel B,STUDENT,2025-07-01,,6.0,1.0
+U0297,Saurabh Mishra,saurabh.mishra@campus.edu.in,M,ECE,1st,Hostel B,student,2025-04-05,True,2.0,0.0
+U0107,Pooja Yadav,pooja.yadav29@campus.con,F,IT,1st,Hostel C,Student,2025-05-30,no,0.0,0.0
+U0612,Aditya Saxena,aditya.saxena@campus.edu.in,M,Mechanical,2,,student,2026-01-05,1,2.0,1.0
+U0646,Neha Das,neha.das18@campus.edu.in,F,IT,First Year,Hostel D,student,28/03/2026,0,0.0,0.0
+U0060,Saurabh Jain,saurabh.jain@campus.edu.in,M,Biotech,,hostel b,student,2025-07-10,1,4.0,2.0
+U0512,Saurabh Chauhan,saurabh.chauhan@campus.edu.in,Male,CSE,2nd,Day Scholar,Student,27 Jul 2025,,3.0,2.0
+U0431,Mohit Verma,mohit.verma59@campus.edu.in,,BBA,4,Hostel E,student,2025-10-01,N,6.0,
+U0044,Yash Agarwal,yash.agarwal12@campus.edu.in,M,ECE,3,Day Scholar,student,2026-09-04,yes,6.0,2.0
+U0241,Rahul Sharma,RAHUL.SHARMA47@CAMPUS.EDU.IN,,CE,3rd,,student,2025-06-10,yes,1.0,0.0
+U0344,Kunal Agarwal,kunal.agarwal@campus.edu.in,M,CE,3,day scholar,student,2025-01-29,False,3.0,0.0
+U0644,Siddharth Tiwari,siddharth.tiwari52@campus.con,M,EE,3,Hostel A,student,31/05/2025,True,3.0,0.0
+U0257,Nisha Singh,nisha.singh@campus.edu.in,F,CSE,1 ,hostel d,STUDENT,2025-09-19,True,0.0,0.0
+U0647,pallavi jain,pallavi.jain24@campus.edu.in,Female,CSE,3,hostel d,student,2024-12-05,False,1.0,1.0
+U0693,Kunal Khan,kunal.khan@campus.edu.in,M,IT,4,Hostel B,Student,2025-04-12,1,2.0,1.0
+U0116,Pranav Nair,pranav.nair75@campus.edu.in,M,CE,2,Hostel A,student,2024-11-25,N,0.0,0.0
+U0608,Aditya Mishra,aditya.mishra85@campus.edu.in,Male,cse,Final Year,Hostel B,Student,25/03/2026,no,4.0,1.0
+U0001,Sneha Chauhan,sneha.chauhan27@campus.edu.in,F,me,2,hostel d,student,2025-12-10,True,4.0,2.0
+U0567,Tanvi Kumar,tanvi.kumar@campus.edu.in,F,ME,4,Hostel C,student,2024-09-30,Y,2.0,1.0
+U0182,Kavya Reddy,kavya.reddy36@campus.edu.in,,CSE,2,hostel d,STUDENT,2025-11-23,Y,0.0,0.0
+U0300,Yash Yadav,yash.yadav@campus.edu.in,M,IT,2,hostel e,Student,2025-11-04,1,1.0,1.0
+U0397,Pooja Tiwari,pooja.tiwari74@campus.edu.in,F,,Second Year,,student,2025-03-26,True,1.0,0.0
+ U0517,Kavya Das,kavya.das84@campus.edu.in,F,MBA,4th,hostel c,Student,07 Jan 2025,True,2.0,1.0
+U0250,ANANYA TIWARI,ananya.tiwari18@campus.edu.in,F,MBA,2,Hostel C,student,2025-06-07,no,3.0,0.0
+U0449,Ayesha Patel,ayesha.patel73@campus.edu.in,F,CE,3rd,hostel d,student,05-11-24,False,6.0,0.0
+U0437,Kunal Sharma,kunal.sharma@campus.edu.in,M,CSE,3,hostel e,student,2026-02-25,1,2.0,0.0
+U0516,Meera Gupta,meera.gupta@campus.edu.in,F,Civil,3,Hostel D,student,12 Jan 2026,,2.0,0.0
+U0258,Vikram Pandey,vikram.pandey40@campus.edu.in,M,EE,1st,hostel a,STUDENT,18/09/2024,,3.0,0.0
+U0289,Kunal Singh,kunal.singh22@campus.edu.in,,Mechanical,1st,hostel b,student,2025-10-21,,1.0,1.0
+U0485,Deepak Nair,deepak.nair@campus.edu.in,Male,Chemical,,Day Scholar,Student,2026-05-31,N,,1.0
+U0337,Manish Khan,manish.khan37@campus.edu.in,,ece,4,Hostel E,student,20 Aug 2026,1,5.0,2.0
+U0196,Shreya Nair,shreya.nair49@campus.edu.in,F,ME,4,Hostel C,student,2024-08-24,no,2.0,0.0
+U0108,Rohan Nair,rohan.nair@campus.edu.in,M,mba,3,Hostel B,student,2024-12-17,N,,0.0
+U0553,Ayesha Gupta,ayesha.gupta@campus.edu.in,F,CSE,2,Day Scholar,student,04/03/2025,yes,1.0,
+U0662,Shreya Agarwal,shreya.agarwal91campus.edu.in,F,CE,1 ,Hostel D,student,"Jun 08, 2026",N,0.0,0.0
+U0635,Pranav Gupta,pranav.gupta@campus.edu.in,Male,bba,2,Hostel E,student,2025-11-23,False,0.0,
+U0303,Kavya Chauhan,kavya.chauhan@campus.edu.in,F,Biotech,,hostel d,student,2025-05-12,,,0.0
+U0711,Arjun Bansal,arjun.bansal56@campus.edu.in,M,C.S.E,2,Hostel B,Student,2026-04-04,1,1.0,1.0
+U0003,Aditya Patel,aditya.patel26@campus.edu.in,M,,Second Year,Hostel B,student,31/10/2025,True,1.0,0.0
+U0033,Nisha Reddy,nisha.reddy@campus.edu.in,F,EE,1st,hostel d,student,01/01/2026,True,1.0,0.0
+U0313,Nikhil Gupta,nikhil.gupta@campus.edu.in,M,CE,2,Hostel A,student,2025-09-14,0,3.0,1.0
+U0204,Ankit Verma,ankit.verma@campus.edu.in,M,IT,3rd,Hostel A,student,"Mar 01, 2025",yes,0.0,0.0
+U0674,Ankit Das,ankit.das98@campus.edu.in,Male,mba,1,Hostel A,student,10/07/2026,0,0.0,0.0
+U0332,Shreya Joshi,shreya.joshi@campus.edu.in,F,BT,2nd,hostel d,student,2026-08-16,True,0.0,0.0
+U0104,Pallavi Patel,pallavi.patel26@campus.edu.in,F,ME,1,Hostel D,student,2025-03-12,1,1.0,1.0
+U0243,Pranav Tiwari,pranav.tiwari@campus.edu.in,M,cse,4,Day Scholar,student,2025-12-23,Y,6.0,1.0
+U0202,Kritika Jain,kritika.jain49@campus.edu.in,F,CSE,1 ,hostel c,student,2025-09-13,1,0.0,0.0
+U0479,shreya yadav,shreya.yadav@campus.edu.in,F,ECE,1st,Hostel C,student,23/02/2025,no,0.0,0.0
+U0180,Pallavi Singh,,F,Biotech,2nd,Hostel C,student,2025-02-13,,0.0,0.0
+U0440, Aditya Pandey,aditya.pandey94@campus.edu.in,M,CSE,4th,Hostel A,student,2024-11-05,True,7.0,1.0
+U0191,Sakshi Sharma,sakshi.sharma@campus.edu.in,F,IT,2nd,Day Scholar,student,2025-02-12,True,2.0,0.0
+U0694,Sneha Bansal,sneha.bansal35@campus.edu.in,F,IT,3 ,,student,2025-01-29,1,,0.0
+U0009,Aarav Bansal,aarav.bansal@campus.edu.in,Male,ECE,2,hostel b,student,02/09/2024,N,3.0,1.0
+U0123,Deepak Yadav,deepak.yadav@campus.edu.in,M,CSE,2,Hostel A,student,2025-06-29,N,,1.0
+U0163,Priya Pandey,priya.pandey65@campus.edu.in,F,IT,,Hostel D,student,2025-07-30,yes,3.0,1.0
+U0034,Saurabh Sharma,saurabh.sharma@campus.edu.in,M,BBA,First Year,Hostel A,student,2026-06-19,,3.0,0.0
+U0018,Ankit Gupta,ankit.gupta67@campus.edu.in,M,BBA,4,Hostel B,student,22 Oct 2024,True,3.0,1.0
+U0092,Nikhil Tiwari,,M,CSE,4,hostel a,student,"Apr 04, 2026",True,5.0,1.0
+U0710,Shreya Nair,shreya.nair97@campus.edu.in,F,MECH,2nd,Day Scholar,student,04-01-25,,2.0,0.0
+U0293,Ananya Nair,ananya.nair19@campus.edu.in,F,ce,2nd,Hostel C,student,2026-05-02,1,2.0,1.0
+U0248, Arjun Sharma,arjun.sharma4@campus.edu.in,M,Information Technology,1st,Hostel A,student,2026-02-12,1,3.0,0.0
+U0118,Tanvi Agarwal,tanvi.agarwal39@campus.edu.in,Female,ME,2nd,Day Scholar,student,10-10-24,False,2.0,0.0
+U0367,Raj Nair,RAJ.NAIR17@CAMPUS.EDU.IN,M,Electrical,1,Hostel B,student,2024-11-30,N,0.0,
+U0349,Aditi Chauhan,aditi.chauhan71@campus.edu.in,Female,Chemical Engg,3rd,Hostel D,student,11/05/2026,True,5.0,2.0
+U0529,Shreya Patel,shreya.patel59@campus.edu.in,F,ME,1,Hostel C,student,2024-12-06,0,1.0,0.0
+U0151,Ankit Yadav,ankit.yadav@campus.edu.in,Male,IT,2,Hostel B,student,04-05-26,,0.0,0.0
+U0455,Deepak Mishra,deepak.mishra@campus.edu.in,Male,ME,2,hostel a,Student,2024-12-21,N,1.0,0.0
+U0333,Ankit Jain,ankit.jain4@campus.edu.in,M,EE,2,Hostel A,Student,2025-01-02,,1.0,1.0
+U0380,Aarav Agarwal,aarav.agarwal@campus.edu.in,Male,,2,Hostel A,STUDENT,2025-08-19,N,0.0,0.0
+U0477,Aarav Patel,aarav.patel8@campus.edu.in,M,CSE,3,hostel b,student,2025-11-05,N,,1.0
+U0089,Yash Sharma,yash.sharma86@campus.edu.in,,ce,1st,Day Scholar,Student,2025-03-30,False,1.0,0.0
+U0589,Divya Bansal,divya.bansal@campus.edu.in,Female,IT,3rd,Day Scholar,STUDENT,2026-02-08,1,3.0,2.0
+U0212,Nikhil Tiwari,,M,EE,2,Day Scholar,student,04/11/2025,True,0.0,0.0
+U0436,Raj Joshi,raj.joshi33@campus.edu.in,M,,3,Hostel E,student,16 Sep 2025,Y,3.0,1.0
+U0166,Deepak Saxena,deepak.saxena35@campus.edu.in,M,EE,3rd,Hostel B,student,2026-02-28,Y,1.0,0.0
+U0368,Karan Kumar,karan.kumar@campus.edu.in,M,CE,1,Hostel B,student,28/07/2025,N,1.0,0.0
+U0233,Tanvi Chauhan,tanvi.chauhan40@campus.edu.in,F,Electrical,1,Hostel C,student,2026-02-16,0,1.0,0.0
+U0633,Sneha Verma,sneha.verma@campus.edu.in,F,Biotech,3rd,hostel d,student,07/06/2025,True,1.0,0.0
+U0702,Yash Verma,yash.verma@campus.con,M,Biotech,4th,Hostel B,student,2026-04-14,1,2.0,0.0
+U0389,Nikhil Das,nikhil.das@campus.edu.in,M,me,2,hostel a,student,2024-11-30,1,4.0,0.0
+U0242,RAJ JOSHI,raj.joshi@campus.edu.in,M,Electronics,3rd,Hostel E,student,18-08-25,Y,1.0,0.0
+U0373,Manish Nair,manish.nair72@campus.edu.in,Male,ME,1st,Hostel E,student,2025-04-12,Y,0.0,0.0
+U0376,Arjun Verma,arjun.verma4@campus.edu.in,Male,CSE,First Year,Day Scholar,student,06 Apr 2025,1,0.0,0.0
+U0011,Harsh Singh,,M,ce,First Year,Hostel B,student,06/01/2026,0,1.0,0.0
+U0096,Ayesha Chauhan,ayesha.chauhan45@campus.edu.in,F,ME,1,Hostel C,student,2024-08-11,no,1.0,0.0
+U0658,Manish Mishra,manish.mishra86@campus.edu.in,Male,IT,Second Year,Hostel B,student,2024-10-25,yes,1.0,0.0
+U0478,Rahul Verma,rahul.verma@campus.edu.in,,CE,1st,Hostel A,student,22 Jun 2025,1,,1.0
+U0540,Raj Reddy,,M,ECE,2,Hostel B,student,07/10/2024,yes,3.0,2.0
+U0611,Nikhil Reddy,nikhil.reddy@campus.edu.in,,CSE,3,Hostel B,student,2025-09-16,1,3.0,0.0
+U0599,Aarav Singh,aarav.singh@campus.edu.in,M,ME,1,Hostel A,STUDENT,"Oct 07, 2024",no,1.0,0.0
+U0708,Priya Saxena,priya.saxena4@campus.edu.in,Female,C.S.E,3rd,Hostel D,Student,2024-08-08,,4.0,1.0
+U0136,Sakshi Mishra,sakshi.mishra@campus.edu.in,F,CSE,1st,Hostel D,student,02 Feb 2025,Y,1.0,0.0
+U0179,Sneha Yadav,sneha.yadav38@campus.edu.in,Female,ECE,1,Day Scholar,Student,2026-03-09,N,1.0,0.0
+U0041,sneha khan,sneha.khan35@campus.edu.in,F,ECE,4,Hostel D,student,2025-07-15,Y,6.0,2.0
+U0641,Raj Bansal,raj.bansal@campus.edu.in,M,EE,3rd,Day Scholar,student,"Sep 16, 2025",no,1.0,0.0
+U0583,Raj Agarwal,raj.agarwal@campus.con,M,BBA,4,Hostel A,Student,2025-08-30,,3.0,3.0
+U0308,SIDDHARTH SINGH,,M,Chemical,4,Hostel B,STUDENT,28/07/2025,1,,0.0
+U0551,Aditya Singh,aditya.singh10@campus.edu.in,M,CSE,4th,Day Scholar,student,2026-03-21,Y,3.0,0.0
+U0038,Raj Saxena,,M,MECH,4,Hostel A,student,2025-11-01,yes,4.0,1.0
+U0499,Kunal Patel,kunal.patel71@campus.edu.in,M,ECE,2,Hostel A,student,2026-07-04,,1.0,0.0
+U0463,Karan Agarwal,karan.agarwal30@campus.edu.in,,MBA,Final Year,Hostel A,student,24/02/2025,True,1.0,
+U0220, Simran Verma,simran.verma39@campus.edu.in,F,Information Technology,3,Hostel C,student,2026-09-19,no,1.0,0.0
+U0013,Amit Chauhan,amit.chauhan@campus.edu.in,M,Information Technology,3,,student,2025-01-01,,2.0,1.0
+U0288,Ankit Kumar,ankit.kumar@campus.edu.in,Male,IT,4,Hostel A,student,07/04/2026,yes,2.0,1.0
+U0384,Simran Kumar,simran.kumar89@campus.edu.in,F,ME,2,hostel c,student,2025-02-19,Y,1.0,
+U0209,Meera Patel,meera.patel@campus.edu.in,F,Civil,4,Day Scholar,student,2024-07-05,True,,4.0
+U0610,Deepak Bansal,deepak.bansal@campus.edu.in,M,Civil,1,Hostel B,student,11/06/2026,N,,0.0
+U0446,Ankit Kumar,ankit.kumar44@campus.edu.in,Male,CSE,2 ,Hostel A,student,24 Mar 2025,no,3.0,2.0
+U0240,Karan Pandey,karan.pandey36@campus.edu.in,M,mba,1st,Hostel E,student,2024-12-26,False,1.0,1.0
+U0183,meera bansal,meera.bansal@campus.edu.in,F,ce,4,Hostel C,student,"Apr 27, 2026",1,2.0,1.0
+U0232,Vikram Kumar,VIKRAM.KUMAR@CAMPUS.EDU.IN,,Chemical,3,Hostel B,student,2025-06-10,yes,1.0,0.0
+U0052,Nisha Tiwari,nisha.tiwari@campus.edu.in,,Computer Science,3,Day Scholar,student,2024-08-30,,6.0,3.0
+U0057,Rohan Agarwal,rohan.agarwal45@campus.edu.in,M,Chemical,1st,Hostel B,student,2026-02-17,False,2.0,0.0
+U0016,Nikhil Pandey,nikhil.pandey53@campus.edu.in,M,ECE,2,Hostel B,student,2025-02-01,,2.0,
+U0469,Riya Reddy,riya.reddy@campus.edu.in,F,Chemical,3rd,hostel c,student,2026-04-30,1,,0.0
+U0622,Aditya Gupta,aditya.gupta@campus.edu.in,M,MBA,3,hostel a,student,2024-10-01,Y,5.0,
+U0008,Deepak Patel,deepak.patel84@campus.edu.in,M,EE,2,Hostel B,student,2025-11-04,,1.0,0.0
+U0267,Neha Gupta,neha.gupta83@campus.edu.in,F,EE,2,hostel c,student,2026-02-02,yes,0.0,0.0
+U0701,Vikram Das,vikram.das@campus.edu.in,,CE,2,Hostel A,student,"Apr 12, 2025",True,1.0,
+U0301,Ananya Jain,ananya.jain53@campus.edu.in,F,IT,1,Hostel D,student,2024-12-28,True,0.0,0.0
+U0139,Muskan Mishra,muskan.mishra28@campus.edu.in,F,CSE,1,Hostel C,student,2024-12-10,1,0.0,0.0
+U0719,Rahul Jain,rahul.jain@campus.edu.in,Male,CS,1,hostel a,student,2026-08-31,N,1.0,0.0
+u0420,Isha Tiwari,isha.tiwari42@campus.edu.in,F,ME,2nd,hostel d,student,10/02/2026,no,2.0,
+U0023,Ananya Tiwari,ananya.tiwari54@campus.edu.in,,Biotech,3rd,hostel c,student,2025-05-29,False,6.0,2.0
+U0574,Nikhil Khan,nikhil.khan46@campus.edu.in,Male,ee,1st,Hostel A,student,03 May 2025,False,2.0,0.0
+U0466,Simran Das,simran.das@campus.edu.in,F,ME,4,Hostel C,student,2025-08-05,1,6.0,4.0
+U0488,Priya Mishra,priya.mishra@campus.edu.in,F,ce,Third Year,hostel d,student,2025-12-11,yes,,2.0
+U0417,Meera Joshi,meera.joshi34@campus.edu.in,F,cse,3,Hostel C,student,2024-10-01,True,,0.0
+U0189,Pranav Patel,,M,,1,Day Scholar,student,2025-03-18,no,1.0,
+U0223,Kunal Jain,kunal.jain@campus.edu.in,M,bba,2 ,Hostel A,student,2024-08-11,Y,1.0,0.0
+U0465,Ankit Jain,ankit.jain31@campus.edu.in,M,BBA,1,Hostel A,student,"Sep 04, 2025",N,0.0,
+U0238,Harsh Nair,harsh.nair78@campus.edu.in,M,ECE,Third Year,Hostel A,student,"May 12, 2026",,6.0,1.0
+U0497,Riya Nair,riya.nair26@campus.edu.in,F,C.S.E,1,Hostel C,student,23/09/2024,no,2.0,0.0
+U0375,Deepak Yadav,deepak.yadav22@campus.edu.in,M,IT,3rd,Hostel B,student,11/10/2024,1,4.0,2.0
+U0112,Saurabh Mishra,saurabh.mishra@campus.edu.in,M,,Second Year,hostel a,STUDENT,2024-10-05,Y,1.0,0.0
+U0626,Kunal Saxena,kunal.saxena46@campus.edu.in,Male,ECE,2,hostel b,student,16/03/2026,Y,1.0,0.0
+U0122,Simran Agarwal,simran.agarwal@campus.edu.in,F,ECE,2,Hostel D,student,2025-05-03,no,1.0,0.0
+U0099,Raj Yadav,raj.yadav66@campus.edu.in,M,Chemical,Third Year,Day Scholar,student,2025-02-13,yes,1.0,1.0
+U0113,Kritika Kumar,kritika.kumar@campus.edu.in,F,MBA,1,Hostel D,student,2024-12-14,yes,0.0,0.0
+U0535,Aarav Sharma,aarav.sharma@campus.edu.in,M,CSE,3rd,Hostel A,student,2026-04-04,True,2.0,1.0
+U0678,Shreya Joshi,shreya.joshi48@campus.edu.in,Female,MECH,,day scholar,student,10/08/2026,1,1.0,
+U0244,Kunal Yadav,kunal.yadav9@campus.edu.in,M,ECE,4,hostel b,student,"Oct 23, 2024",True,2.0,
+U0161,Ankit Khan,ankit.khan55@campus.edu.in,M,CSE,4th,Day Scholar,Student,2025-12-13,True,3.0,1.0
+U0570,Pooja Bansal,POOJA.BANSAL80@CAMPUS.EDU.IN,,cse,1,Hostel C,student,2025-11-02,0,1.0,0.0
+U0706,Nikhil Nair,nikhil.nair24@campus.edu.in,M,Electrical,4,Hostel B,student,2025-06-13,True,1.0,1.0
+U0226,Rahul Das,rahul.das@campus.edu.in,,Chemical,4th,Hostel A,student,"Sep 13, 2025",,3.0,0.0
+U0229,Yash Nair,yash.nair@campus.edu.in,M,,1,Hostel B,student,2026-02-04,True,0.0,0.0
+U0707,AYESHA MISHRA,ayesha.mishra31@campus.edu.in,F,MBA,3,Hostel D,student,08 Jun 2025,N,3.0,0.0
+U0350,Nikhil Yadav,nikhil.yadav87@campus.edu.in,M,IT,2,Hostel B,student,2024-10-19,Y,2.0,1.0
+U0681,Priya Bansal,priya.bansal@campus.edu.in,Female,ECE,2,Hostel C,admin,13/09/2024,True,0.0,0.0
+U0656,saurabh khan,saurabh.khan31@campus.edu.in,M,,3,Hostel B,student,2026-05-20,Y,4.0,1.0
+U0188,Yash Patel,yash.patel@campus.edu.in,Male,,Third Year,hostel a,student,2025-12-09,yes,,0.0
+U0230,Saurabh Yadav,saurabh.yadav17@campus.edu.in,M,MBA,3,,student,2025-09-10,True,2.0,0.0
+U0596,Nikhil Patel,nikhil.patel48@campus.edu.in,M,IT,1,Hostel E,student,14/01/2025,no,0.0,0.0
+U0498,saurabh das,saurabh.das81@campus.edu.in,Male,BBA,3rd,Hostel B,student,11/07/2024,,,0.0
+U0329,Ankit Chauhan,ankit.chauhan59@campus.edu.in,,IT,4,,student,2025-06-05,yes,2.0,0.0
+U0088,Saurabh Mishra,,M,EE,1,Day Scholar,student,25-08-26,yes,1.0,1.0
+U0594,Saurabh Saxena,saurabh.saxena42@campus.edu.in,Male,EE,First Year,Hostel B,STUDENT,04 Dec 2025,1,1.0,1.0
+U0197,Nisha Saxena,nisha.saxena@campus.edu.in,F,IT,1 ,Hostel C,student,04 Apr 2026,0,0.0,0.0
+U0119, Riya Tiwari,riya.tiwari@campus.edu.in,F,BBA,,hostel c,student,2025-03-30,,2.0,0.0
+U0448,Isha Chauhan,isha.chauhan33@campus.edu.in,,ME,3rd,hostel d,student,2026-06-28,True,5.0,1.0
+U0585,Kritika Chauhan,kritika.chauhan87@campus.edu.in,Female,ECE,2,Hostel D,student,2025-10-18,Y,2.0,0.0
+U0278,Pranav Das,pranav.das@campus.edu.in,M,Computer Science,2nd,Hostel B,student,2025-10-15,,,
+U0394,Pranav Mishra,PRANAV.MISHRA8@CAMPUS.EDU.IN,M,EE,3,Hostel E,student,2026-09-04,,2.0,1.0
+U0462,SAURABH KHAN,saurabh.khan@campus.edu.in,M,IT,3rd,Day Scholar,student,2026-05-01,Y,2.0,0.0
+u0312,shreya bansal,shreya.bansal14@campus.edu.in,F,E&C,3,Hostel D,student,2025-07-08,0,2.0,0.0
+U0361,Manish Joshi,manish.joshi37@campus.edu.in,M,ECE,4th,Day Scholar,STUDENT,23/07/2024,yes,3.0,2.0
+U0442,Kunal Jain,kunal.jain12@campus.edu.in,M,Biotech,1 ,Hostel A,student,2024-12-05,yes,1.0,1.0
+U0142,Kunal Kumar,kunal.kumar@campus.edu.in,M,Computer Science,2,Hostel B,student,2025-09-22,1,1.0,0.0
+U0124,Aditi Reddy,aditi.reddy@campus.edu.in,F,Electrical,,Hostel D,student,2025-07-23,Y,3.0,0.0
+U0115,Yash Jain,yash.jain16@campus.edu.in,Male,ce,4th,Hostel B,admin,"May 08, 2026",1,3.0,
+U0073,Raj Verma,raj.verma43@campus.edu.in,M,ECE,1st,Hostel B,STUDENT,2024-08-26,,0.0,0.0
+U0357,Siddharth Mishra,siddharth.mishra@campus.edu.in,M,ECE,3,Hostel A,student,2026-08-06,Y,6.0,1.0
+U0536,Aditi Yadav,aditi.yadav@campus.edu.in,F,IT,,Hostel D,student,"Jun 12, 2025",Y,2.0,0.0
+u0200,Vikram Yadav,,M,CSE,3,Hostel B,student,2026-08-26,,2.0,0.0
+U0419,Karan Nair,karan.nair89@campus.edu.in,Male,ce,1,hostel b,student,2024-07-14,Y,1.0,0.0
+U0054,Amit Khan,amit.khan20@campus.edu.in,Male,CSE,2,Hostel B,student,2024-07-18,False,3.0,
+U0028,Aditya Saxena,aditya.saxena87@campus.edu.in,Male,,2,Hostel A,student,2026-03-13,0,0.0,0.0
+U0481,Meera Gupta,meera.gupta29@campus.edu.in,F,MBA,1,Day Scholar,student,14/12/2025,0,,1.0
+U0526,Ankit Reddy,,M,IT,1,Hostel B,STUDENT,2025-08-27,no,2.0,0.0
+U0386,Saurabh Verma,saurabh.verma91@campus.edu.in,M,CSE,,hostel b,student,2025-03-05,1,0.0,0.0
+U0652,Riya Reddy,riya.reddy@campus.edu.in,F,,2,Hostel C,STUDENT,2024-10-18,,2.0,1.0
+U0543,Aarav Bansal,aarav.bansal@campus.edu.in,,IT,3,Hostel E,Student,30/05/2026,True,2.0,
+U0074,SAKSHI JAIN,sakshi.jain81@campus.edu.in,Female,CE,3rd,,student,2026-03-14,0,,0.0
+U0433,Deepak Das,deepak.das@campus.edu.in,M,Computer Science,3rd,Hostel E,student,25/02/2026,no,1.0,0.0
+U0494,Raj Verma,raj.verma2@campus.edu.in,M,bba,2nd,Hostel A,student,"Sep 26, 2026",False,2.0,0.0
+U0281,Mohit Kumar,mohit.kumar@campus.edu.in,,Chemical,3,Hostel A,Student,2024-08-22,1,6.0,2.0
+U0049,Aarav Verma,aarav.verma@campus.edu.in,M,MBA,3rd,Hostel E,student,2024-09-06,Y,1.0,0.0
+U0270,Arjun Chauhan,arjun.chauhan68@campus.edu.in,M,cse,4,Day Scholar,student,02/05/2026,,3.0,0.0
+U0224,Karan Singh,karan.singh@campus.edu.in,M,cse,2,Hostel A,student,2026-05-04,yes,0.0,0.0
+U0014,Rahul Pandey,rahul.pandey@campus.edu.in,M,bba,1,Hostel B,student,2026-05-29,yes,2.0,0.0
+U0654,Rohan Nair,,M,cse,4,Day Scholar,student,2024-08-04,yes,4.0,0.0
+U0081,Karan Bansal,karan.bansal66@campus.edu.in,M,ee,1,Day Scholar,STUDENT,2024-07-17,,2.0,0.0
+U0588,Kunal Reddy,kunal.reddy45@campus.edu.in,M,,First Year,hostel e,student,2024-07-30,0,,0.0
+U0316,Sneha Kumar,sneha.kumar92@campus.edu.in,F,cse,3,hostel d,student,2024-07-24,Y,0.0,0.0
+U0227,Divya Das,divya.das@campus.edu.in,,ce,2nd,hostel c,student,2024-12-20,True,3.0,0.0
+U0667,Aditi Singh,aditi.singh55@campus.edu.in,,Biotech,4,Hostel D,student,2024-09-03,1,,1.0
+U0218,Nisha Sharma,nisha.sharma23@campus.edu.in,Female,,2nd,Hostel C,student,2025-02-05,True,1.0,
+U0186,Karan Tiwari,karan.tiwari@campus.edu.in,M,ME,4th,Hostel A,student,26/07/2024,no,3.0,1.0
+U0643,Pranav Singh,pranav.singh@campus.edu.in,,ece,2nd,Hostel E,student,2025-09-09,N,0.0,0.0
+U0165,Pooja Bansal,pooja.bansal@campus.edu.in,F,,3,Hostel D,student,2025-07-07,N,3.0,2.0
+U0377,Riya Kumar,riya.kumar70@campus.edu.in,,ME,Final Year,Hostel D,student,08 Jan 2025,1,,0.0
+U0541,Nisha Singh,NISHA.SINGH@CAMPUS.EDU.IN,F,it,3,hostel c,student,2025-04-04,True,3.0,0.0
+U0559,Divya Chauhan,divya.chauhan@campus.con,F,ece,,Hostel C,student,2025-04-04,0,,0.0
+U0410,Rahul Saxena,rahul.saxena14@campus.edu.in,M,CSE,3,Hostel A,student,2026-06-24,True,2.0,0.0
+U0580,Mohit Kumar,mohit.kumar26@campus.edu.in,M,IT,1st,Hostel A,student,13 Sep 2026,Y,0.0,0.0
+U0506,Pranav Pandey,pranav.pandey27@campus.edu.in,M,ME,,Hostel B,student,17/08/2024,Y,1.0,0.0
+U0696,Raj Verma,raj.verma@campus.edu.in,M,IT,3,hostel e,student,2025-03-12,False,3.0,0.0
+U0159,Sneha Nair,sneha.nair@campus.edu.in,F,ECE,1,Hostel C,Student,2025-01-17,True,3.0,2.0
+U0510,Isha Yadav,isha.yadav1@campus.con,Female,EE,3,,student,2024-10-06,no,2.0,
+U0133,Aarav Tiwari,aarav.tiwari23@campus.edu.in,M,IT,4th,Hostel A,STUDENT,2026-09-09,1,6.0,
+U0575,Siddharth Yadav,siddharth.yadav@campus.edu.in,M,CE,2,Hostel A,student,2025-09-07,yes,2.0,1.0
+U0609,Yash Singh,yash.singh98@campus.edu.in,M,CSE,3rd,Hostel A,student,12/05/2026,N,,0.0
+U0084,Arjun Kumar,arjun.kumar38@campus.edu.in,Male,Biotech,3,Hostel A,student,2025-05-17,True,,0.0
+U0445,Saurabh Singh,saurabh.singh@campus.edu.in,M,BBA,2,hostel b,student,2025-10-29,False,3.0,0.0
+U0557,Deepak Bansal,deepak.bansal@campus.edu.in,M,CSE,1,hostel e,student,2025-09-07,0,4.0,2.0
+U0167,Aditya Tiwari,aditya.tiwari10@campus.edu.in,M,,4,Hostel A,student,2025-05-22,1,2.0,0.0
+U0047,Pranav Mishra,pranav.mishra@campus.edu.in,M,it,Second Year,Hostel E,student,19 Aug 2026,yes,1.0,0.0
+U0617,Deepak Saxena,deepak.saxena63@campus.edu.in,,ME,3,Hostel A,student,12-12-25,True,2.0,1.0
+U0400,Deepak Tiwari,deepak.tiwari8@campus.edu.in,M,EE,4,Hostel E,student,2025-05-08,Y,7.0,
+U0029,Kritika Bansal,kritika.bansal@campus.edu.in,F,,2nd,Day Scholar,student,2025-05-05,yes,1.0,1.0
+U0472,Muskan Gupta,muskan.gupta79@campus.edu.in,F,ECE,2,Hostel C,student,2025-05-23,0,0.0,0.0
+U0341,Pooja Das,pooja.das@campus.edu.in,F,CSE,1,Hostel D,student,"Nov 29, 2025",Y,0.0,0.0
+U0685,Aditi Saxena,aditi.saxena19@campus.edu.in,F,mba,1st,hostel c,student,2026-07-10,True,0.0,0.0
+U0042,Amit Nair,amit.nair16@campus.edu.in,M,IT,1,Hostel B,student,2024-08-24,0,2.0,0.0
+U0274,YASH CHAUHAN,yash.chauhan54@campus.edu.in,Male,C.S.E,4,hostel b,student,2025-07-03,1,3.0,0.0
+U0239,Harsh Tiwari,harsh.tiwari62@campus.edu.in,Male,mba,3,,student,02/07/2024,True,3.0,
+U0318,Deepak Mishra,deepak.mishra@campus.edu.in,M,ECE,2,Hostel E,student,2026-05-03,yes,1.0,0.0
+U0677,Tanvi Tiwari,tanvi.tiwari1@campus.con,F,CSE,1,Hostel D,student,2024-12-16,True,1.0,0.0
+U0351,Vikram Nair,vikram.nair@campus.edu.in,M,Information Technology,4,Day Scholar,student,2026-06-30,True,1.0,0.0
+U0511,Sakshi Mishra,sakshi.mishra@campus.edu.in,F,ece,4,Hostel D,student,2025-10-30,,4.0,2.0
+U0138,Manish Nair,manish.nair8@campus.edu.in,M,CSE,Third Year,Hostel B,student,11 Mar 2026,yes,4.0,1.0
+U0523,Ananya Pandey,,F,it,2,Hostel D,student,10 Sep 2024,,2.0,1.0
+U0717,Harsh Singh,harsh.singh75@campus.edu.in,M,EE,3,Hostel B,student,2025-11-23,Y,1.0,1.0
+U0324,Aditya Sharma,aditya.sharma@campus.edu.in,M,EE,4,Hostel A,student,25 Sep 2024,True,,0.0
+U0483,Priya Mishra,priya.mishra@campus.edu.in,F,IT,3,Day Scholar,student,2026-01-03,False,2.0,0.0
+U0487,Deepak Reddy,DEEPAK.REDDY@CAMPUS.EDU.IN,M,ECE,1st,,student,01 Feb 2026,N,0.0,0.0
+U0422,Pallavi Das,pallavi.das@campus.edu.in,Female,Biotech,2,hostel c,Student,2024-10-19,N,1.0,0.0
+U0280,karan khan,karan.khan@campus.edu.in,M,CE,,Hostel A,student,2025-05-17,True,2.0,1.0
+U0657,Divya Saxena,divya.saxena13@campus.edu.in,F,ECE,1,Hostel C,student,2025-03-18,N,2.0,0.0
+U0141,Muskan Jain,muskan.jain43@campus.edu.in,Female,CSE,2,Hostel C,student,2026-03-24,1,4.0,1.0
+U0157,Isha Sharma,isha.sharma@campus.edu.in,F,CSE,3rd,Hostel D,student,2026-09-06,no,1.0,0.0
+U0132,Sakshi Yadav,sakshi.yadav28@campus.edu.in,,Computer Science,3rd,Hostel D,student,2026-05-23,yes,2.0,0.0
+U0435,Muskan Khan,muskan.khan@campus.edu.in,F,ECE,2,Hostel C,student,24 May 2025,0,3.0,0.0
+U0525,Simran Das,simran.das92@campus.edu.in,F,CE,2nd,Hostel D,student,2026-02-16,True,1.0,0.0
+U0266,Nikhil Gupta,nikhil.gupta@campus.edu.in,Male,Electrical,3,Hostel A,student,2025-07-04,False,1.0,0.0
+U0563,Rahul Agarwal,,,mba,2nd,Hostel B,student,2025-07-03,yes,4.0,1.0
+U0024,Nikhil Khan,nikhil.khan@campus.edu.in,M,,3rd,Hostel A,student,12 Mar 2025,yes,2.0,0.0
+U0345,Amit Bansal,amit.bansalcampus.edu.in,M,,3,Hostel A,student,2025-08-17,yes,5.0,1.0
+U0505,Priya Sharma,priya.sharma@campus.edu.in,Female,ECE,First Year,Day Scholar,student,2025-05-27,0,2.0,0.0
+U0026,Yash Das,yash.das@campus.edu.in,M,BT,2,Hostel A,student,"Aug 12, 2026",True,0.0,0.0
+U0072,Isha Singh,isha.singh@campus.edu.in,F,Chemical,2,hostel c,student,2026-01-17,yes,2.0,0.0
+U0246,Riya Chauhan,riya.chauhan@campus.edu.in,,EE,4,hostel c,student,2026-08-03,yes,3.0,1.0
+U0031, Saurabh Jain,,M,Mechanical,1 ,Hostel E,student,2026-06-12,True,0.0,0.0
+U0129,Siddharth Sharma,siddharth.sharma@campus.edu.in,M,CE,1,Hostel E,student,21 Jan 2026,,0.0,0.0
+U0147,Arjun Singh,arjun.singh24@campus.edu.in,M,,Third Year,Day Scholar,student,2024-08-26,0,,0.0
+U0663,Aditya Bansal,aditya.bansal91campus.edu.in,M,ME,2,hostel e,student,14/09/2025,N,8.0,4.0
+U0665,Rahul Bansal,rahul.bansal1@campus.edu.in,M,Mechanical,1,Day Scholar,student,2025-11-18,Y,,0.0
+U0155,Pranav Sharma,pranav.sharma@campus.edu.in,M,ME,4th,Hostel B,student,29 Dec 2025,Y,1.0,0.0
+U0493,Ananya Agarwal,ananya.agarwal92@campus.edu.in,Female,CSE,Second Year,Hostel D,student,2024-09-22,no,1.0,0.0
+U0490,Harsh Gupta,harsh.gupta86campus.edu.in,M,MBA,1st,Hostel A,student,2025-11-08,N,0.0,0.0
+U0718,Karan Saxena,karan.saxena25campus.edu.in,M,ECE,1,Hostel B,student,2025-06-09,yes,0.0,
+U0249,ADITYA REDDY,aditya.reddy72@campus.edu.in,M,ME,3,Hostel A,student,2025-02-19,,,1.0
+U0684,Rohan Singh,rohan.singh44@campus.edu.in,,CS,1,,student,2024-12-07,Y,0.0,0.0
+U0287,Shreya Patel,shreya.patel8@campus.edu.in,F,Electronics,1,Hostel C,student,2025-03-14,N,0.0,0.0
+U0299,Ankit Verma,ankit.verma@campus.edu.in,M,MBA,4th,Hostel A,student,2024-09-25,Y,6.0,0.0
+U0067,Ayesha Sharma,,F,Chemical Engg,1,Hostel D,student,08 Jan 2026,Y,1.0,0.0
+U0712,Tanvi Verma,TANVI.VERMA@CAMPUS.EDU.IN,F,ee,1,hostel d,student,2024-07-08,N,1.0,0.0
+U0091,Neha Verma,neha.verma@campus.edu.in,F,CSE,1st,hostel d,student,2026-07-11,0,1.0,1.0
+U0524,Vikram Joshi,vikram.joshi24@campus.edu.in,Male,MBA,4,hostel b,student,13-07-25,False,4.0,1.0
+U0501, Kunal Tiwari,kunal.tiwari@campus.edu.in,,Chemical,,hostel b,student,11-08-25,no,1.0,0.0
+U0458,Tanvi Joshi,TANVI.JOSHI@CAMPUS.EDU.IN,F,BBA,1,Day Scholar,student,08/12/2025,Y,0.0,0.0
+U0292,Tanvi Pandey,tanvi.pandey@campus.edu.in,F,Electronics,3,Hostel C,student,"Sep 13, 2026",Y,5.0,
+U0144,Aditya Saxena,aditya.saxena70@campus.edu.in,M,Biotech,1,Hostel E,student,03/07/2025,yes,0.0,0.0
+U0344,Kunal Agarwal,kunal.agarwal@campus.edu.in,M,CE,3,day scholar,student,2025-01-29,False,3.0,0.0
+u0070,Sakshi Gupta,sakshi.gupta@campus.edu.in,F,CE,2,day scholar,admin,08 Nov 2025,no,2.0,
+U0093,Aarav Sharma,aarav.sharma@campus.edu.in,M,ME,,Hostel B,student,2024-07-08,False,5.0,2.0
+U0283,Ankit Singh,,M,ME,1,Hostel B,student,2026-04-09,False,1.0,
+U0453,Nisha Patel,nisha.patel48@campus.edu.in,F,IT,,hostel d,student,29/08/2025,Y,0.0,0.0
+U0669,Simran Bansal,simran.bansal53@campus.edu.in,F,,4,Hostel C,student,30 Apr 2025,,2.0,
+U0679,Aarav Tiwari,aarav.tiwari96@campus.edu.in,Male,cse,2,hostel a,student,16 Sep 2024,0,4.0,1.0
+U0315,Kunal Sharma,kunal.sharma@campus.edu.in,M,CSE,4,Hostel A,student,2024-10-19,,1.0,0.0
+U0311,Ayesha Reddy,,F,Chemical,4th,hostel d,STUDENT,2024-10-28,1,3.0,1.0
+U0045,Sakshi Reddy,sakshi.reddy53@campus.edu.in,F,C.S.E,1,Day Scholar,student,2025-08-20,yes,0.0,0.0
+U0597,Kunal Das,,M,ECE,3,hostel a,student,07/05/2025,False,5.0,0.0
+U0531,Isha Agarwal,isha.agarwal@campus.edu.in,Female,mba,3,Hostel D,student,23/09/2024,True,2.0,0.0
+ U0174,Harsh Saxena,,Male,Electrical,4,Hostel A,student,2025-06-21,,6.0,1.0
+U0110,Pooja Joshi,,,CSE,1,Hostel D,student,02/08/2026,N,0.0,0.0
+U0715,Nisha Khan,nisha.khan23@campus.edu.in,F,,1st,Hostel C,STUDENT,2025-05-24,,1.0,0.0
+U0444,neha bansal,neha.bansal49@campus.edu.in,F,cse,2nd,Hostel C,student,2026-05-10,N,0.0,0.0
+U0364,Yash Nair,yash.nair35@campus.edu.in,M,CSE,2 ,Hostel E,student,2026-07-31,False,0.0,0.0
+U0587,Simran Patel,simran.patel61@campus.edu.in,F,MBA,1,Day Scholar,Student,25 Jun 2025,,0.0,0.0
+U0653,Simran Jain,simran.jain@campus.edu.in,F,,Final Year,Hostel C,STUDENT,24/09/2026,True,4.0,1.0
+U0143,Sneha Jain,sneha.jain@campus.edu.in,F,MBA,3rd,day scholar,student,04/01/2026,False,1.0,1.0
+U0260,Divya Singh,divya.singh41@campus.edu.in,F,Biotech,3 ,hostel d,Student,18 Sep 2025,False,2.0,1.0
+U0391,Aarav Yadav,aarav.yadav@campus.edu.in,,ee,1st,Hostel E,student,06/12/2025,0,1.0,0.0
+U0086,Saurabh Saxena,saurabh.saxena14@campus.edu.in,M,ECE,3,hostel e,STUDENT,2025-11-23,Y,1.0,0.0
+U0254,Raj Bansal,raj.bansal@campus.edu.in,M,CE,3,,student,29/08/2024,1,1.0,1.0
+U0021,Deepak Kumar,deepak.kumar@campus.edu.in,M,CSE,2,Hostel B,student,2025-08-08,0,0.0,0.0
+U0508,Ayesha Bansal,ayesha.bansal57@campus.edu.in,F,IT,2,Hostel D,student,2026-03-17,no,7.0,2.0
+U0616,Aditi Kumar,aditi.kumar42@campus.edu.in,F,IT,First Year,Hostel D,student,2025-06-19,Y,1.0,0.0
+U0062,pranav joshi,pranav.joshi91@campus.edu.in,M,bba,3,Hostel E,student,2025-01-15,,2.0,2.0
+U0206, Amit Verma,amit.verma2@campus.edu.in,,ECE,1,hostel a,student,2025-09-25,yes,0.0,0.0
+U0347,Kritika Bansal,kritika.bansal@campus.edu.in,,Bio-Tech,4,Hostel C,student,2025-10-10,,7.0,
+U0056,Simran Nair,simran.nair58@campus.edu.in,F,CSE,4th,Hostel C,student,2026-02-18,False,1.0,0.0
+U0087,Yash Kumar,,M,Information Technology,3,Hostel A,Student,2026-04-26,1,2.0,1.0
+U0201,Sakshi Verma,sakshi.verma68@campus.con,Female,EE,4,Hostel C,student,2025-12-31,yes,2.0,
+U0502,Isha Nair,isha.nair18@campus.edu.in,F,Mechanical,4 ,Hostel D,student,17-02-25,True,,0.0
+U0522,Sneha Kumar,sneha.kumar@campus.edu.in,F,CE,4th,hostel c,student,2025-09-15,Y,0.0,0.0
+U0222,Divya Tiwari,,F,Mechanical,1,Hostel D,student,19 Nov 2025,no,1.0,0.0
+U0642,Divya Jain,divya.jain61@campus.edu.in,,MECH,3rd,Hostel C,STUDENT,2026-07-30,Y,2.0,1.0
+U0017,Saurabh Gupta,saurabh.gupta@campus.edu.in,M,MBA,2,Day Scholar,admin,22/09/2025,no,1.0,0.0
+U0660,ARJUN TIWARI,arjun.tiwari37@campus.edu.in,,BBA,1st,Hostel A,STUDENT,06 Sep 2024,0,0.0,0.0
+U0117,Simran Gupta,simran.gupta38campus.edu.in,F,ECE,Second Year,Hostel D,student,21/09/2025,no,3.0,0.0
+U0305,Pranav Joshi,pranav.joshi91@campus.edu.in,M,Chemical,First Year,Hostel A,student,29/01/2026,,1.0,1.0
+U0691,Arjun Verma,arjun.verma@campus.edu.in,Male,ECE,1,,student,2026-04-13,N,0.0,0.0
+U0503,TANVI KHAN,,,ece,3rd,Hostel D,student,25/11/2025,1,2.0,1.0
+U0137,Sneha Bansal,sneha.bansal21@campus.edu.in,F,,Third Year,Hostel D,student,2026-06-16,Y,4.0,1.0
+U0073,Raj Verma,raj.verma43@campus.edu.in,M,ECE,1st,Hostel B,STUDENT,2024-08-26,,0.0,0.0
+U0441,Neha Yadav,neha.yadavcampus.edu.in,F,Electronics,2,Hostel C,student,"Sep 01, 2024",True,1.0,
+U0595,Tanvi Bansal,tanvi.bansalcampus.edu.in,F,Chemical,4,hostel d,student,2026-06-25,True,3.0,2.0
+U0500,Amit Verma,amit.verma@campus.edu.in,,Electronics,First Year,hostel b,STUDENT,2024-07-26,True,0.0,0.0
+U0050,KARAN BANSAL,karan.bansal@campus.edu.in,M,chem,2nd,Hostel B,student,14 Nov 2025,1,,0.0
+U0385,Ankit Kumar,ankit.kumar15@campus.edu.in,M,CSE,4,Day Scholar,student,2026-09-18,Y,6.0,2.0
+U0164,Ankit Bansal,ankit.bansal@campus.edu.in,M,it,2,Hostel B,student,28-07-26,Y,0.0,0.0
+U0408,Sneha Yadav,sneha.yadav@campus.edu.in,,CSE,2,hostel c,student,28-12-24,False,,3.0
+U0582,Nisha Verma,nisha.verma@campus.edu.in,Female,CSE,1,Hostel D,student,2026-07-10,Y,1.0,0.0
+U0591,Nikhil Pandey,nikhil.pandey16@campus.edu.in,M,Computer Science,1st,hostel e,student,2024-08-18,0,0.0,0.0
+U0346,vikram reddy,vikram.reddy@campus.edu.in,Male,Electronics,2,hostel b,student,2024-09-19,True,3.0,1.0
+U0471,Nikhil Mishra,nikhil.mishra18@campus.edu.in,Male,ME,1,Hostel B,student,2025-08-05,yes,0.0,0.0
+U0225,Aarav Nair,aarav.nair5@campus.con,Male,IT,Third Year,Hostel B,student,2025-11-21,Y,5.0,0.0
+U0515,Neha Sharma,neha.sharma@campus.edu.in,Female,IT,3,Day Scholar,student,2024-08-22,False,0.0,0.0
+U0566,Aditya Patel,aditya.patel@campus.edu.in,M,Biotech,1,Hostel E,student,22/06/2026,yes,2.0,0.0
+U0146,Priya Tiwari,priya.tiwari@campus.edu.in,Female,ECE,3rd,Hostel D,student,2025-05-15,yes,1.0,0.0
+U0519,Amit Kumar,amit.kumar@campus.edu.in,M,,Third Year,hostel a,student,2025-10-08,Y,2.0,
+U0561,Pallavi Nair,pallavi.nair77@campus.edu.in,Female,EE,,Hostel C,student,2026-09-03,True,6.0,2.0
+U0545,Kavya Saxena,kavya.saxena35@campus.edu.in,Female,CS,1,Day Scholar,student,2025-08-19,,1.0,0.0
+U0673,Ayesha Das,ayesha.das95@campus.edu.in,F,BBA,2,Hostel C,student,2025-04-13,1,2.0,0.0
+U0005,Sakshi Saxena,sakshi.saxena@campus.edu.in,F,CSE,4th,Hostel C,student,29/06/2025,,5.0,3.0
+U0406,Vikram Tiwari,vikram.tiwari@campus.edu.in,M,CSE,3,hostel e,student,23/02/2025,True,3.0,0.0
+U0231,Kritika Singh,kritika.singh@campus.edu.in,Female,ece,1 ,Day Scholar,student,2025-04-01,yes,0.0,0.0
+U0219,Nikhil Reddy,nikhil.reddy@campus.edu.in,M,CE,4 ,Hostel B,student,2026-06-11,N,0.0,0.0
+U0160,Mohit Tiwari,mohit.tiwari47@campus.edu.in,M,ME,3,Hostel B,student,2026-06-03,no,2.0,0.0
+U0682,Aarav Agarwal,aarav.agarwal@campus.edu.in,M,,1,Hostel B,student,2024-11-27,0,0.0,0.0
+U0631,Priya Khan,priya.khan@campus.edu.in,,Biotech,2nd,Hostel C,student,21 Sep 2025,1,3.0,1.0
+U0190,Kavya Yadav,kavya.yadav@campus.edu.in,F,ME,3,Hostel D,STUDENT,2026-06-06,1,4.0,2.0
+U0369,Kavya Das,KAVYA.DAS@CAMPUS.EDU.IN,,,2nd,hostel d,student,2024-07-26,False,0.0,0.0
+U0066, Pranav Kumar,pranav.kumar@campus.edu.in,M,ece,3,Hostel A,admin,2025-03-27,0,3.0,1.0
+U0513, Yash Jain,yash.jain@campus.edu.in,Male,ECE,1,Hostel B,student,2026-08-02,N,0.0,
+U0372,ARJUN KUMAR,arjun.kumar@campus.con,M,EE,3,Hostel A,student,15/03/2025,Y,3.0,0.0
+U0256,SNEHA CHAUHAN,sneha.chauhan@campus.edu.in,F,cse,1,Hostel C,student,2026-07-31,,2.0,
+U0149,Shreya Das,shreya.das@campus.edu.in,F,IT,3rd,Hostel C,student,2024-11-02,yes,,0.0
+U0666,Raj Chauhan,raj.chauhan49@campus.edu.in,,EE,1 ,day scholar,student,2025-01-15,no,,
+U0176,Aarav Nair,aarav.nair64@campus.edu.in,M,ME,2,Hostel A,student,28-09-24,False,1.0,0.0
+U0415,Nisha Reddy,nisha.reddy91@campus.edu.in,F,chem,,Hostel D,student,2024-11-20,N,0.0,
+u0215,Mohit Agarwal,,M,EE,1st,,student,2025-12-10,yes,1.0,0.0
+ U0335,Karan Sharma,karan.sharma@campus.edu.in,,Computer Science,2,Day Scholar,student,08/12/2025,,1.0,0.0
+U0178,Kunal Verma,kunal.verma@campus.edu.in,M,EE,2 ,Hostel B,student,2025-11-13,1,1.0,0.0
+U0082,Kritika Agarwal,kritika.agarwal@campus.edu.in,F,,2,Day Scholar,STUDENT,12 Jan 2026,Y,1.0,0.0
+U0615,Sneha Gupta,sneha.gupta@campus.edu.in,F,CSE,Third Year,Hostel C,student,18 Aug 2026,0,2.0,
+U0509,Arjun Yadav,arjun.yadav32@campus.edu.in,,Electronics,Second Year,Hostel A,student,05-02-25,,0.0,0.0
+U0374,Nikhil Kumar,nikhil.kumar@campus.edu.in,M,Electrical,,hostel b,student,2026-05-01,0,0.0,0.0
+U0216,Pooja Yadav,pooja.yadav@campus.edu.in,F,mba,2,hostel d,student,04/12/2025,True,2.0,0.0
+U0015,Manish Tiwari,manish.tiwari73@campus.edu.in,M,C.S.E,2,Hostel E,student,13/01/2025,1,1.0,0.0
+U0253,Sakshi Kumar,sakshi.kumar@campus.edu.in,F,ME,Second Year,Day Scholar,Student,04 Mar 2026,yes,2.0,0.0
+U0075,Nikhil Kumar,nikhil.kumar@campus.edu.in,M,IT,2nd,Hostel E,student,11-07-24,Y,1.0,0.0
+U0177,Aditi Mishra,aditi.mishra@campus.edu.in,Female,BBA,3rd,Hostel C,student,2024-12-16,Y,3.0,0.0
+U0625,Ayesha Singh,ayesha.singh@campus.edu.in,F,CSE,3 ,Day Scholar,student,2026-08-09,yes,2.0,1.0
+U0317,Aditi Patel,aditi.patel76@campus.edu.in,F,EE,1,Hostel C,student,2026-06-08,1,0.0,0.0
+U0438,KAVYA CHAUHAN,kavya.chauhan8@campus.edu.in,F,CSE,1st,Day Scholar,student,2025-04-16,,0.0,0.0
+U0236,Mohit Mishra,mohit.mishra@campus.edu.in,,CS,3,Hostel E,student,2025-10-11,Y,3.0,2.0
+U0705,Divya Saxena,,F,Information Technology,1,day scholar,student,2025-03-08,,1.0,
+U0172,Divya Chauhan,divya.chauhan30@campus.edu.in,F,CSE,3,Hostel D,student,"Jan 30, 2025",yes,2.0,0.0
+U0330,Meera Chauhan,meera.chauhan9@campus.edu.in,,,3,Hostel C,Student,01/11/2024,no,3.0,0.0
+U0309,Manish Chauhan,manish.chauhan@campus.edu.in,M,CSE,1st,Hostel E,Student,2025-10-26,N,0.0,0.0
+U0020,Harsh Agarwal,,M,Civil,3,Day Scholar,student,19/06/2025,True,1.0,0.0
+U0562,Aarav Mishra,aarav.mishracampus.edu.in,M,cse,2,Hostel A,student,2026-01-27,1,0.0,0.0
+U0203,Ankit Reddy,ankit.reddy48@campus.edu.in,,ME,2,Hostel B,student,06/07/2025,0,,2.0
+U0193,Tanvi Jain,tanvi.jain48@campus.edu.in,F,ECE,Second Year,hostel c,student,2025-03-07,no,1.0,0.0
+U0716,Karan Sharma,karan.sharma@campus.edu.in,,Chemical,2nd,hostel a,student,15/02/2025,N,0.0,0.0
+U0620,Amit Chauhan,amit.chauhan@campus.edu.in,M,Chemical,2,Hostel B,Student,2026-07-11,True,1.0,1.0
+U0709,Harsh Kumar,harsh.kumar5@campus.edu.in,M,CSE,3,Hostel E,Student,2026-02-16,True,2.0,0.0
+U0106,Yash Verma,yash.verma22@campus.edu.in,M,Biotech,4,Hostel E,student,2024-07-03,yes,5.0,2.0
+U0701,Vikram Das,vikram.das@campus.edu.in,,CE,2,Hostel A,student,"Apr 12, 2025",True,1.0,
+U0156,Rohan Singh,rohan.singh89@campus.edu.in,Male,bba,First Year,Hostel A,Student,2026-09-26,yes,3.0,
+U0720,Deepak Reddy,deepak.reddy16@campus.edu.in,Male,it,2 ,Day Scholar,student,19/02/2026,no,2.0,0.0
+U0275,Arjun Mishra,arjun.mishra42@campus.edu.in,,IT,Third Year,Hostel B,student,2026-08-29,Y,3.0,1.0
+U0276,Deepak Patel,deepak.patel94@campus.edu.in,M,ECE,2,Hostel B,student,19/11/2024,yes,2.0,1.0
+U0360,Saurabh Mishra,saurabh.mishra@campus.edu.in,M,Electronics,4th,Hostel A,STUDENT,2024-10-01,Y,4.0,0.0
+U0530,Aditya Pandey,aditya.pandey3@campus.edu.in,M,CSE,2nd,Hostel B,student,2025-04-18,Y,1.0,0.0
+U0365,Raj Nair,raj.nair41@campus.edu.in,M,ECE,,Hostel A,student,2026-07-19,no,0.0,0.0
+U0114,Riya Yadav,riya.yadav@campus.edu.in,Female,ECE,4th,Hostel D,student,11/01/2025,1,1.0,1.0
+U0483,Priya Mishra,priya.mishra@campus.edu.in,F,IT,3,Day Scholar,student,2026-01-03,False,2.0,0.0
+U0447,DIVYA JOSHI,divya.joshi65@campus.edu.in,F,Electrical,3rd,Day Scholar,student,2025-09-15,,2.0,0.0
+U0055,Saurabh Joshi,saurabh.joshi55@campus.edu.in,M,BBA,1st,hostel b,Student,2024-10-03,yes,2.0,2.0
+U0338,Pooja Tiwari,POOJA.TIWARI@CAMPUS.EDU.IN,F,Electronics,Final Year,Hostel D,student,2025-04-14,0,1.0,0.0
+U0358,Simran Reddy,simran.reddy91@campus.edu.in,Female,Chemical Engg,4th,Hostel C,student,2026-02-18,True,2.0,0.0
+U0245,Saurabh Sharma,saurabh.sharma@campus.edu.in,Male,ME,1 ,Hostel E,student,2026-02-25,N,0.0,0.0
+U0378,Pranav Bansal,pranav.bansal@campus.edu.in,M,Biotech,1,Hostel B,student,2026-07-24,False,1.0,0.0
+U0355,Pallavi Mishra,pallavi.mishra@campus.edu.in,F,,2,Hostel C,student,2025-03-26,,1.0,0.0
+u0200,Vikram Yadav,,M,CSE,3,Hostel B,student,2026-08-26,,2.0,0.0
+U0036,karan verma,karan.verma@campus.edu.in,M,CSE,3,Hostel B,student,16-08-24,False,6.0,5.0
+U0613,siddharth chauhan,siddharth.chauhan87@campus.edu.in,Male,ME,1 ,hostel a,Student,2025-06-28,False,,0.0
+U0521,Amit Nair,AMIT.NAIR@CAMPUS.EDU.IN,M,IT,4,Hostel B,student,15/03/2025,no,2.0,0.0
+U0184,Harsh Sharma,harsh.sharma65@campus.edu.in,,CSE,1,Hostel A,student,2024-08-22,Y,0.0,0.0
+U0412,Kavya Jain,kavya.jain43@campus.edu.in,,ME,3,day scholar,student,19/12/2024,yes,,0.0
+U0007,Amit Das,amit.das@campus.edu.in,M,BBA,1,Hostel B,student,2026-03-22,False,0.0,0.0
+U0294,Aditi Saxena,,Female,CSE,4 ,Hostel D,student,2026-02-10,True,3.0,3.0
+U0272,Kunal Chauhan,kunal.chauhan41@campus.edu.in,,ECE,2,Hostel E,student,06/01/2026,Y,,2.0
+U0262,Nisha Singh,nisha.singh85@campus.edu.in,F,C.S.E,1st,Hostel D,student,2025-11-02,True,1.0,1.0
+U0648,Ankit Saxena,ankit.saxena@campus.edu.in,M,biotech,Second Year,Hostel B,student,2026-09-16,Y,1.0,0.0
+U0085,Mohit Agarwal,mohit.agarwal28@campus.edu.in,,Chemical Engg,2nd,Hostel B,student,2026-04-03,,1.0,0.0
+U0489,Nisha Verma,nisha.verma98@campus.edu.in,F,Chemical,1 ,Day Scholar,student,02/08/2026,Y,0.0,0.0
+U0284,Ankit Jain,,M,me,4,,student,2025-09-07,,2.0,1.0
+U0404,Neha Mishra,,F,IT,1,Hostel C,student,2026-07-04,N,1.0,0.0
+U0211,Aditi Mishra,aditi.mishra@campus.edu.in,F,,2,Hostel D,Student,2025-11-25,True,3.0,0.0
+U0590,Kritika Tiwari,kritika.tiwari25@campus.edu.in,Female,me,Third Year,Hostel C,student,2024-11-26,Y,3.0,1.0
+U0306,Amit Chauhan,amit.chauhan18@campus.edu.in,M,IT,4,Hostel A,student,2025-01-14,1,,0.0
+U0439,Karan Sharma,karan.sharma@campus.edu.in,M,BBA,4th,Hostel A,student,2026-08-01,yes,1.0,0.0
+U0401,Rahul Agarwal,rahul.agarwal48@campus.edu.in,M,ECE,,hostel b,student,2025-12-03,0,0.0,0.0
+U0277,Meera Tiwari,meera.tiwari26@campus.edu.in,Female,chem,Second Year,Hostel D,student,04 Oct 2024,,1.0,0.0
+U0552,Siddharth Chauhan,siddharth.chauhan@campus.edu.in,M,CSE,2nd,,student,22/08/2026,0,3.0,2.0
+U0632,Amit Tiwari,amit.tiwari@campus.edu.in,,Chemical,1st,hostel a,STUDENT,2026-04-08,Y,1.0,0.0
+U0101,Kritika Mishra,kritika.mishra@campus.edu.in,F,cse,3,hostel d,student,2024-08-18,True,1.0,0.0
+U0578,Pooja Agarwal,pooja.agarwal7@campus.edu.in,F,CSE,2,Hostel D,student,01-03-25,,1.0,0.0
+U0630,deepak joshi,deepak.joshi50@campus.edu.in,M,ee,2,hostel a,STUDENT,"Jul 08, 2025",yes,3.0,0.0
+U0322,Saurabh Das,saurabh.das@campus.edu.in,Male,IT,3rd,Hostel A,student,2025-06-13,N,3.0,0.0
+U0432,Neha Reddy,neha.reddy98@campus.edu.in,F,,2,Hostel C,student,2025-04-25,0,1.0,0.0
+U0387,Nisha Sharma,nisha.sharma@campus.edu.in,F,,First Year,Day Scholar,student,2024-11-05,N,,0.0
+U0403,Raj Joshi,raj.joshi@campus.edu.in,M,CS,3,hostel e,student,2025-10-29,,5.0,0.0
+U0468,Raj Reddy,raj.reddy91@campus.edu.in,M,bba,2,Hostel E,student,15/10/2025,False,0.0,0.0
+U0340,Tanvi Agarwal,tanvi.agarwal32@campus.edu.in,F,CS,2,hostel c,student,28-02-25,yes,3.0,0.0
+U0051,Deepak Reddy,deepak.reddy@campus.edu.in,M,,,Hostel A,student,2025-11-23,0,3.0,2.0
+U0210,Sakshi Jain,sakshi.jain@campus.edu.in,Female,chem,Second Year,Hostel D,student,22 Dec 2025,1,0.0,0.0
+U0279,Yash Mishra,,,EE,3rd,day scholar,student,2026-03-28,True,1.0,0.0
+U0675,Yash Tiwari,,M,C.S.E,2,Hostel B,student,2025-07-19,,1.0,1.0
+U0251,Neha Tiwari,neha.tiwari@campus.edu.in,F,ECE,,Hostel D,student,20/02/2026,1,5.0,1.0
+U0573, Yash Jain,yash.jain85@campus.edu.in,M,BBA,2,day scholar,student,"Jul 15, 2025",True,2.0,
+U0362,Kavya Nair,kavya.nair@campus.edu.in,,ECE,1,Hostel C,student,2025-03-14,0,1.0,0.0
+U0168,Saurabh Jain,saurabh.jain8@campus.edu.in,Male,CSE,3rd,Hostel B,student,27/05/2025,,1.0,1.0
+U0421,Deepak Pandey,deepak.pandey57@campus.edu.in,M,Computer Science,1 ,hostel e,student,2026-06-11,,1.0,0.0
+U0651,Raj Reddy,raj.reddy@campus.edu.in,M,MBA,First Year,Hostel B,student,22 Aug 2025,1,0.0,0.0
+U0331,Pallavi Joshi,pallavi.joshi86@campus.edu.in,F,Electronics,2,Hostel D,Student,2024-12-22,1,2.0,0.0
+U0430,Rohan Gupta,rohan.gupta@campus.edu.in,M,IT,3,hostel a,Student,23/01/2025,1,1.0,0.0
+U0393,Vikram Saxena,vikram.saxena71@campus.edu.in,,,Second Year,Hostel A,student,2025-02-13,N,2.0,1.0
+U0134,Arjun Tiwari,arjun.tiwari@campus.edu.in,M,CE,2,Hostel A,Student,2026-07-13,no,,2.0
+U0661,Kritika Agarwal,kritika.agarwal10@campus.edu.in,F,CSE,3rd,hostel c,Student,2024-10-26,1,,0.0
+U0592,Kritika Patel,kritika.patel@campus.edu.in,F,CS,First Year,Hostel D,student,30-09-25,0,0.0,0.0
+U0127,Saurabh Jain,saurabh.jain@campus.edu.in,M,it,2,Hostel A,student,25 Jun 2025,no,3.0,0.0
+U0670,Deepak Bansal,deepak.bansal20@campus.edu.in,,IT,1st,Hostel A,student,2026-06-15,yes,0.0,0.0
+U0097,Aditya Joshi,aditya.joshi@campus.edu.in,M,EE,2,day scholar,student,21/07/2024,1,2.0,0.0
+U0518,Kritika Patel,kritika.patel@campus.edu.in,F,CSE,1,day scholar,student,26 Aug 2024,N,0.0,0.0
+U0264,ISHA TIWARI,,F,cse,2,Hostel C,student,30/07/2024,,,1.0
+U0002,Kritika Reddy,kritika.reddy87@campus.edu.in,Female,Civil,2,Hostel C,student,2025-04-18,N,2.0,0.0
+U0579,Riya Saxena,riya.saxena70@campus.edu.in,F,ME,2nd,Hostel C,student,2026-08-19,no,4.0,0.0
+U0429,Manish Agarwal,manish.agarwal74@campus.edu.in,Male,cse,2,Hostel B,student,02 Oct 2024,1,2.0,0.0
+U0396,Isha Joshi,isha.joshi17@campus.edu.in,F,it,1st,Hostel D,student,26/08/2026,no,3.0,
+U0427,Sakshi Reddy,sakshi.reddy@campus.edu.in,F,ECE,First Year,Hostel C,STUDENT,16/02/2026,1,0.0,0.0
+U0268,Amit Agarwal,amit.agarwal@campus.edu.in,Male,EE,,hostel a,student,12 Oct 2025,,1.0,1.0
+U0491,arjun gupta,arjun.gupta35@campus.edu.in,M,CE,2,hostel a,student,2026-07-29,True,0.0,0.0
+U0006,Muskan Nair,muskan.nair@campus.edu.in,Female,ME,1 ,Hostel D,student,20 Sep 2026,N,2.0,2.0
+U0111,Aarav Kumar,aarav.kumar@campus.con,M,,1st,Day Scholar,student,22 Sep 2024,,1.0,0.0
+U0544,Saurabh Agarwal,saurabh.agarwal@campus.edu.in,M,CE,1st,Hostel B,student,2026-01-26,1,,0.0
+U0199,Kavya Das,kavya.das67@campus.edu.in,Female,CSE,2,Hostel C,student,01-03-25,N,6.0,
+U0409,Rahul Saxena,rahul.saxena@campus.edu.in,Male,Biotech,4th,Hostel B,student,2026-07-22,N,4.0,
+U0443,Aarav Verma,aarav.verma79@campus.edu.in,Male,bba,3 ,Hostel A,student,01/05/2026,True,2.0,0.0
+U0640,Aarav Kumar,aarav.kumar53@campus.edu.in,M,Mechanical,2,Day Scholar,student,2025-09-08,N,,0.0
+U0169,Yash Agarwal,yash.agarwal@campus.edu.in,M,Mechanical,1,Hostel A,student,2024-09-20,yes,0.0,0.0
+U0569,Kunal Pandey,kunal.pandey@campus.edu.in,M,,2,Day Scholar,student,2025-05-26,no,4.0,0.0
+U0414,Tanvi Sharma,TANVI.SHARMA55@CAMPUS.EDU.IN,F,ee,2nd,Hostel C,student,10 Aug 2025,N,1.0,1.0
+U0079,Kunal Patel,kunal.patel@campus.edu.in,M,ECE,3,Hostel E,student,2025-02-28,0,3.0,0.0
+U0175,Aditi Das,aditi.das20@campus.edu.in,F,CSE,1st,Day Scholar,student,28 Dec 2024,True,0.0,0.0
+U0614,Harsh Sharma,harsh.sharma@campus.edu.in,M,ME,2nd,Hostel E,student,2025-10-20,Y,,2.0
+U0048,Harsh Jain,harsh.jain12@campus.edu.in,M,cse,4,,student,2026-02-14,0,4.0,2.0
+U0392,Kritika Mishra,kritika.mishra@campus.edu.in,F,MBA,2 ,Day Scholar,STUDENT,15/12/2025,Y,1.0,0.0
+U0035,Mohit Patel,mohit.patel@campus.edu.in,Male,Biotech,Second Year,Hostel B,student,10-03-25,False,3.0,1.0
+U0602,Pallavi Pandey,pallavi.pandey@campus.edu.in,,IT,4,Day Scholar,student,02/06/2026,,5.0,0.0
+U0024,Nikhil Khan,nikhil.khan@campus.edu.in,M,,3rd,Hostel A,student,12 Mar 2025,yes,2.0,0.0
+U0649,Pallavi Das,pallavi.das43@campus.edu.in,,CE,,Hostel C,Student,2025-02-27,yes,,2.0
+U0263,kunal reddy,kunal.reddy@campus.edu.in,Male,Electronics,First Year,Hostel A,student,2025-05-20,False,1.0,0.0
+U0022,Mohit Agarwal,mohit.agarwal65@campus.edu.in,M,Biotech,1st,Hostel E,student,03 Dec 2024,N,2.0,1.0
+U0181,sneha verma,sneha.verma98@campus.edu.in,F,EE,2nd,Hostel D,Student,2024-07-16,0,,0.0
+U0068, Neha Sharma,neha.sharma@campus.edu.in,F,CE,3 ,Hostel C,student,27/01/2026,Y,2.0,0.0
+U0558,Simran Joshi,simran.joshi21@campus.edu.in,F,,1,Hostel D,student,26/04/2026,no,0.0,0.0
+U0672,Meera Saxena,meera.saxena79@campus.edu.in,F,cse,1 ,Hostel C,student,13 Jan 2025,no,3.0,
+U0584,Rohan Bansal,rohan.bansal@campus.edu.in,,EE,1,Hostel B,Student,17/07/2025,True,,
+U0187,Pranav Pandey,pranav.pandey@campus.edu.in,,BBA,4,Hostel A,STUDENT,2025-05-18,yes,2.0,0.0
+U0140,Muskan Agarwal,muskan.agarwal22@campus.edu.in,,CE,2,Hostel D,student,2026-06-15,Y,2.0,2.0
+U0339,Manish Reddy,manish.reddy2@campus.edu.in,M,ECE,3rd,Day Scholar,student,10 May 2025,Y,3.0,1.0
+U0565,Aditi Yadav,aditi.yadav53@campus.edu.in,Female,bba,3,,student,26/04/2026,Y,0.0,0.0
+U0030,Nisha Pandey,nisha.pandey71@campus.edu.in,F,BBA,,Hostel C,student,2024-07-22,1,,0.0
+U0398,Arjun Nair,arjun.nair16@campus.edu.in,M,E&C,2nd,,Student,2024-09-02,yes,6.0,2.0
+U0221,Riya Gupta,riya.gupta@campus.edu.in,F,Chemical,3,Hostel C,student,2024-12-07,yes,7.0,
+U0426,Ayesha Tiwari,ayesha.tiwari@campus.edu.in,F,BBA,1,Hostel C,student,2024-08-28,no,0.0,0.0
+U0454,Raj Yadav,raj.yadav@campus.edu.in,M,IT,4,Hostel B,student,"May 03, 2026",,4.0,2.0
+U0418,Kavya Singh,kavya.singh19@campus.edu.in,F,,1,Hostel C,student,19/08/2025,,0.0,0.0
+U0676,Ananya Tiwari,ANANYA.TIWARI93@CAMPUS.EDU.IN,F,Chemical Engg,4th,Hostel D,student,2026-07-31,Y,,1.0
+U0059,Sneha Khan,sneha.khan95@campus.edu.in,F,CSE,2nd,Hostel D,student,2024-10-22,1,1.0,1.0
+U0039,Amit Kumar,amit.kumar85@campus.edu.in,,BBA,3,hostel e,student,17-05-25,True,0.0,0.0
+U0504,Vikram Patel,vikram.patel21@campus.edu.in,Male,ECE,3,Hostel A,student,"Sep 17, 2025",Y,4.0,1.0
+U0354,Yash Singh,yash.singh@campus.edu.in,Male,EE,,Hostel A,student,2026-02-01,0,5.0,2.0
+U0424,Aditi Jain,aditi.jain77@campus.edu.in,Female,Chemical,1,Hostel C,student,10-12-25,0,1.0,0.0
+U0686,Shreya Pandey,shreya.pandey@campus.edu.in,F,Bio-Tech,3,hostel c,student,2024-12-30,False,3.0,0.0
+U0390,shreya chauhan,shreya.chauhan@campus.edu.in,F,CSE,4,Hostel D,student,2025-02-15,no,2.0,0.0
+U0636, Shreya Nair,,F,Bio-Tech,3,Hostel D,student,2024-12-31,1,3.0,
+U0650,Divya Patel,divya.patel@campus.edu.in,F,BBA,2,Hostel D,student,2025-01-16,no,1.0,0.0
+U0699,Siddharth Singh,siddharth.singh@campus.edu.in,M,CSE,3,Day Scholar,student,"Jan 21, 2026",,3.0,0.0
+U0298,Simran Tiwari,,Female,,3,hostel d,student,04-12-25,N,3.0,1.0
+U0100,Karan Das,karan.das23@campus.edu.in,Male,,,Hostel B,student,24 Aug 2024,0,3.0,1.0
+U0547,ayesha bansal,,Female,CSE,4,Hostel C,STUDENT,2025-10-15,1,7.0,4.0
+U0025,Pranav Gupta,pranav.gupta@campus.edu.in,Male,IT,3,Hostel A,student,2025-05-18,Y,,1.0
+U0192, Sakshi Nair,sakshi.nair18@campus.edu.in,F,ECE,1,Hostel C,student,02 Oct 2025,Y,2.0,1.0
+U0255, Isha Kumar,isha.kumar3@campus.edu.in,Female,Biotech,1,Hostel C,student,27/07/2024,True,0.0,0.0
+U0286,Kavya Nair,kavya.nair86campus.edu.in,F,EE,,Hostel C,student,2024-10-31,0,2.0,0.0
+U0655,Pallavi Jain,pallavi.jain@campus.edu.in,F,Chemical,1st,hostel d,student,16 Jun 2026,no,3.0,2.0
+U0664,Siddharth Sharma,siddharth.sharma44@campus.edu.in,M,EE,2nd,Hostel B,Student,2026-04-27,Y,1.0,0.0
+U0171,Pranav Sharma,pranav.sharma@campus.edu.in,M,Mechanical,2nd,Hostel A,student,"Jul 15, 2025",1,3.0,1.0
+U0295,Aditi Singh,aditi.singh@campus.edu.in,F,Civil,3rd,Hostel C,student,2026-05-31,1,1.0,0.0
+U0237,Arjun Agarwal,arjun.agarwal@campus.edu.in,M,ME,2,Hostel B,student,16/12/2024,N,3.0,1.0
+U0606,Ananya Nair,ananya.nair@campus.edu.in,F,CSE,3,Hostel C,student,2026-02-27,Y,2.0,0.0
+U0065,Aditya Mishra,aditya.mishra@campus.edu.in,,bba,2,Hostel A,student,2024-11-24,0,2.0,1.0
+U0259,Shreya Bansal,shreya.bansal@campus.edu.in,F,ECE,4th,hostel d,Student,2024-09-30,True,3.0,1.0
+U0348,Aditi Joshi,aditi.joshi@campus.edu.in,F,BBA,1,,STUDENT,2026-02-03,,1.0,1.0
+U0321,Muskan Saxena,muskan.saxena64@campus.edu.in,F,CSE,4,Hostel C,student,2024-11-27,False,6.0,0.0
+U0095,ADITI AGARWAL,,F,ECE,4,hostel c,student,2026-04-01,Y,5.0,2.0
+U0601,Riya Joshi,riya.joshi93@campus.edu.in,Female,Chemical,1,Hostel C,student,2026-03-27,N,1.0,0.0
+U0527,Meera Gupta,meera.gupta77@campus.edu.in,F,ECE,1st,Hostel C,student,27/08/2025,N,1.0,0.0
+U0560,ARJUN SINGH,arjun.singh8@campus.edu.in,M,biotech,4,Hostel B,student,2025-09-20,1,1.0,0.0
+U0269,Manish Patel,manish.patel@campus.edu.in,M,cse,3,hostel e,student,03/11/2025,yes,3.0,1.0
+U0697,Harsh Kumar,harsh.kumar50@campus.edu.in,,ECE,2nd,Hostel A,student,05/11/2024,yes,3.0,0.0
+U0480,Kritika Jain,kritika.jain46@campus.edu.in,F,BBA,3,Hostel D,student,06/09/2025,,4.0,2.0
+U0671,Tanvi Singh,tanvi.singh97@campus.edu.in,F,CSE,3,Hostel C,student,2026-02-16,0,4.0,
+U0273,Ankit Joshi,ankit.joshi@campus.edu.in,M,Computer Science,1,hostel e,student,2026-09-20,yes,3.0,1.0
+U0639,NIKHIL YADAV,nikhil.yadav@campus.edu.in,M,BBA,1,Hostel E,student,22/10/2025,N,0.0,0.0
+U0538,Sneha Patel,sneha.patel64campus.edu.in,F,BT,1,Day Scholar,student,07/05/2026,False,1.0,0.0
+U0371,Manish Agarwal,manish.agarwal@campus.edu.in,M,C.S.E,4,Hostel E,Student,2026-08-19,yes,7.0,5.0
+U0450,Tanvi Patel,TANVI.PATEL91@CAMPUS.EDU.IN,F,IT,1,Day Scholar,student,2025-06-01,1,0.0,0.0
+U0109,Rohan Khan,,M,Civil,Final Year,hostel a,student,"Jul 10, 2024",1,3.0,1.0
+U0185,Simran Das,simran.das@campus.edu.in,F,CE,3,Hostel D,Student,2025-02-15,N,1.0,0.0
+U0090,Aditya Pandey,aditya.pandey14@campus.edu.in,M,ECE,,Hostel A,student,"Aug 28, 2026",True,1.0,0.0
+U0105, Vikram Nair,vikram.nair56@campus.edu.in,M,CSE,,Hostel B,Student,2025-11-02,1,2.0,0.0
+U0370,ROHAN VERMA,rohan.verma@campus.edu.in,M,EE,4,hostel a,Student,"Apr 22, 2026",1,6.0,3.0
+ U0247,Sakshi Kumar,sakshi.kumar@campus.edu.in,F,,1st,Day Scholar,student,2025-12-31,True,3.0,2.0
+U0098, Deepak Das,DEEPAK.DAS@CAMPUS.EDU.IN,,IT,1st,Hostel B,STUDENT,2026-01-25,no,1.0,0.0
+U0019,Sakshi Nair,SAKSHI.NAIR@CAMPUS.EDU.IN,F,MBA,,day scholar,student,2024-09-26,0,2.0,1.0
+U0103,Aditi Khan,aditi.khan@campus.edu.in,Female,EE,1,Hostel C,student,2025-02-15,Y,2.0,0.0
+u0457,Amit Das,amit.das@campus.edu.in,M,IT,1,hostel b,student,2024-10-25,,2.0,
+U0542,Neha Kumar,neha.kumar9@campus.edu.in,F,,2nd,Hostel C,student,2026-09-14,,2.0,0.0
+U0668,Aditi Pandey,aditi.pandey@campus.edu.in,F,Chemical,1,hostel d,STUDENT,2026-01-19,1,0.0,0.0
+U0533,Mohit Yadav,mohit.yadav21@campus.edu.in,M,ECE,2,Hostel A,student,2024-07-20,yes,1.0,0.0
+U0271,Pranav Reddy,,M,MECH,1,Hostel B,student,19 Jul 2026,,2.0,2.0
+U0548,Harsh Kumar,harsh.kumar@campus.edu.in,Male,Computer Science,2nd,Hostel E,student,2025-12-20,1,5.0,2.0
+U0484, Sakshi Singh,sakshi.singh72@campus.edu.in,F,it,1st,Hostel C,student,2026-06-23,,0.0,0.0
+U0145,Arjun Singh,arjun.singh@campus.edu.in,M,MBA,4,Hostel A,student,06/09/2026,yes,2.0,0.0
+U0416,Deepak Jain,deepak.jain@campus.edu.in,M,chem,1,Hostel A,student,2025-10-08,N,,0.0
+U0046,Nisha Pandey,nisha.pandey@campus.edu.in,F,E&C,2,Hostel C,student,01-08-26,0,3.0,1.0
+U0600,Siddharth Mishra,siddharth.mishra@campus.edu.in,,IT,2,Day Scholar,student,2024-12-04,1,0.0,0.0
+U0381,Siddharth Reddy,siddharth.reddy51@campus.edu.in,M,Chemical,3,Hostel A,STUDENT,2024-10-21,,3.0,1.0
+U0353,Saurabh Reddy,saurabh.reddy93@campus.edu.in,M,ee,2,Day Scholar,student,10/11/2025,N,1.0,1.0
+U0621,Pallavi Yadav,pallavi.yadav@campus.edu.in,F,ECE,1 ,Hostel D,student,16/07/2026,yes,,0.0
+U0688,Ananya Mishra,ananya.mishra@campus.edu.in,Female,ECE,1,,student,20 Dec 2024,no,,
+U0356,Aarav Khan,aarav.khan2@campus.edu.in,M,BBA,2,Hostel A,STUDENT,2026-08-13,False,2.0,0.0
+U0296,amit nair,amit.nair33@campus.edu.in,Male,Biotech,3,Hostel B,student,06/05/2026,yes,3.0,2.0
+U0397,Pooja Tiwari,pooja.tiwari74@campus.edu.in,F,,Second Year,,student,2025-03-26,True,1.0,0.0
+ U0452,Pranav Verma,pranav.verma@campus.edu.in,M,bba,2,Day Scholar,student,2026-08-22,1,3.0,1.0
+U0492,Manish Mishra,manish.mishra1@campus.edu.in,M,ee,2nd,Hostel E,student,03/05/2025,0,0.0,0.0
+U0456,Aditya Das,aditya.das3@campus.edu.in,Male,IT,3,Hostel A,student,2024-12-18,1,7.0,1.0
+U0328, Siddharth Joshi,siddharth.joshi@campus.edu.in,M,EE,,,student,2025-07-11,True,2.0,0.0
+U0564,Yash Patel,yash.patel@campus.edu.in,M,IT,Third Year,Hostel B,student,29/09/2024,True,4.0,0.0
+U0475,Sneha Singh,sneha.singh@campus.edu.in,F,CSE,,hostel d,student,2026-06-11,no,0.0,0.0
+U0700,vikram singh,vikram.singh@campus.edu.in,M,ME,4,Hostel A,student,2025-08-11,False,,0.0
+U0290,Manish Agarwal,manish.agarwal@campus.edu.in,M,,4,Hostel B,STUDENT,2026-06-17,True,1.0,0.0
+U0550,Deepak Das,deepak.das@campus.edu.in,M,Chemical,3,Hostel E,student,2026-08-21,True,3.0,0.0
+U0407,Raj Yadav,raj.yadav@campus.edu.in,M,,4,hostel b,student,16/05/2025,0,5.0,0.0
+U0152, Manish Jain,manish.jain5@campus.edu.in,M,Electronics,2,Hostel E,student,15/10/2024,,0.0,0.0
+U0713,NEHA KHAN,neha.khan@campus.edu.in,F,IT,1,day scholar,student,04/06/2026,0,,0.0
+U0314,Kunal Mishra,kunal.mishra@campus.edu.in,Male,bba,3,Hostel B,student,2026-04-13,no,2.0,0.0
+U0121,Deepak Joshi,deepak.joshi38@campus.edu.in,M,mba,4th,Hostel A,Student,2024-07-29,Y,6.0,4.0
+U0302,Sakshi Jain,sakshi.jain58@campus.edu.in,F,Biotech,4,hostel d,student,07/11/2025,,,2.0
+U0077,Mohit Das,mohit.das@campus.edu.in,Male,ECE,4th,Hostel B,student,2025-02-02,1,6.0,
+U0683,Sakshi Nair,sakshi.nair68@campus.edu.in,F,Electrical,,Hostel D,Student,2024-11-12,N,0.0,
+U0040,Amit Patel,amit.patel@campus.edu.in,M,C.S.E,3,Hostel A,student,2026-08-22,True,2.0,
+U0659,Mohit Khan,mohit.khan@campus.edu.in,M,CSE,4,Hostel A,Student,21 May 2025,no,,1.0
+U0425,Neha Khan,neha.khan62@campus.edu.in,F,MBA,2nd,hostel c,student,2025-01-03,0,0.0,0.0
+U0217,Pranav Kumar,pranav.kumar@campus.edu.in,M,ECE,,hostel a,Student,2025-04-07,yes,3.0,1.0
+U0470,Aditya Das,aditya.das68@campus.edu.in,Male,bba,1,Hostel E,student,28 Jun 2025,,3.0,
+U0520,Ankit Yadav,,,MBA,4,Hostel B,STUDENT,2026-09-03,,4.0,1.0
+U0604,Simran Reddy,simran.reddy@campus.edu.in,F,CS,2 ,Hostel D,student,2025-08-14,no,2.0,1.0
+U0173,Harsh Singh,harsh.singh84@campus.edu.in,,ce,3,Hostel A,student,25 Mar 2025,,0.0,0.0
+U0576,Saurabh Agarwal,saurabh.agarwal37@campus.edu.in,M,,3,,STUDENT,2025-08-20,yes,0.0,0.0
+U0214,Kunal Joshi,kunal.joshi@campus.edu.in,M,CSE,1,Hostel A,student,2025-02-10,,2.0,0.0
+U0605,Pooja Tiwari,pooja.tiwari87@campus.edu.in,F,BBA,1,Hostel D,student,2025-04-20,False,,0.0
+U0495,Nisha Jain,nisha.jain48@campus.edu.in,F,E&C,2,day scholar,student,2026-01-17,yes,2.0,0.0
+U0568,Raj Chauhan,raj.chauhan83@campus.edu.in,M,Electrical,3 ,Day Scholar,student,2024-09-08,Y,,0.0
+U0690,Neha Patel,,F,CSE,4,Hostel C,student,2025-12-21,True,5.0,
+U0476,Simran Pandey,simran.pandey61@campus.edu.in,,CE,3,Hostel D,student,2024-11-02,N,1.0,
+U0624,Karan Khan,karan.khan@campus.edu.in,M,MECH,1,Hostel A,student,07-03-26,N,0.0,
+U0687,Divya Jain,divya.jain@campus.edu.in,F,IT,,Hostel D,student,09/05/2025,Y,0.0,
+U0634,Simran Yadav,SIMRAN.YADAV3@CAMPUS.EDU.IN,F,EE,2,Day Scholar,Student,"Aug 11, 2024",Y,1.0,0.0
+U0467,Aarav Tiwari,aarav.tiwari@campus.edu.in,M,Chemical Engg,4th,Hostel A,student,2026-03-03,Y,3.0,2.0
+U0359, Saurabh Kumar,saurabh.kumar@campus.edu.in,M,MBA,2,Hostel E,student,2024-11-10,1,3.0,1.0
+U0405,Rahul Singh,rahul.singh6@campus.edu.in,M,EE,,hostel e,student,2026-07-14,Y,1.0,1.0
+U0459,Saurabh Sharma,saurabh.sharma@campus.edu.in,,CE,3,Hostel E,student,2025-08-10,no,4.0,1.0
+ u0207,Isha Reddy,isha.reddy@campus.edu.in,F,BBA,1st,hostel c,student,2026-02-17,0,1.0,0.0
+U0061,Deepak Yadav,deepak.yadav54@campus.edu.in,M,MBA,1st,Hostel B,student,02/01/2026,Y,1.0,0.0
+U0234,Sakshi Jain,sakshi.jain31@campus.edu.in,F,IT,2nd,Hostel D,student,2024-12-26,True,2.0,1.0
+U0037,Kritika Singh,kritika.singh@campus.edu.in,F,C.S.E,Third Year,,student,2025-03-23,False,2.0,0.0
+U0004,Pallavi Bansal,pallavi.bansal@campus.edu.in,Female,CE,Third Year,Hostel D,student,20/06/2025,yes,1.0,1.0
+U0158,Harsh Singh,harsh.singh@campus.edu.in,M,BBA,3,,student,2026-08-29,,,
+U0581,Ayesha Pandey,ayesha.pandey87@campus.edu.in,F,BBA,1st,,admin,29/12/2024,0,0.0,0.0
+U0461,Yash Verma,yash.verma96@campus.edu.in,M,Chemical,2,Hostel A,student,2026-03-29,0,,0.0
+U0150,Vikram Agarwal,vikram.agarwal@campus.edu.in,Male,ECE,4,hostel b,student,"Jul 02, 2025",yes,7.0,2.0
+U0695,Sakshi Reddy,sakshi.reddy47@campus.edu.in,F,cse,1,Hostel D,student,10 Feb 2026,yes,3.0,2.0
+U0194,Kavya Patel,,Female,ECE,2nd,Day Scholar,student,22/11/2025,Y,1.0,
+U0586,KUNAL AGARWAL,kunal.agarwal7@campus.edu.in,M,ME,4th,Day Scholar,student,2026-06-17,1,,2.0
+U0078,Amit Kumar,,Male,ME,Second Year,Hostel A,student,2026-06-23,True,2.0,1.0
+U0553,Ayesha Gupta,ayesha.gupta@campus.edu.in,F,CSE,2,Day Scholar,student,04/03/2025,yes,1.0,
+U0555,DEEPAK KHAN,deepak.khan@campus.edu.in,M,CSE,1st,Hostel A,student,06-04-26,no,0.0,0.0
+U0102,Simran Bansal,simran.bansal44@campus.edu.in,F,Biotech,,Hostel C,student,2024-08-24,1,4.0,1.0
+U0125,amit khan,amit.khan37@campus.edu.in,,BBA,4,Hostel A,student,22-08-26,0,3.0,0.0
+U0010,Vikram Singh,vikram.singh77@campus.edu.in,M,IT,3 ,hostel b,student,2024-10-05,Y,1.0,0.0
+U0680,Pranav Khan,pranav.khan84@campus.edu.in,,,3,Hostel B,Student,2026-01-26,1,1.0,0.0
+U0071,Raj Mishra,raj.mishra@campus.edu.in,M,ECE,3rd,Hostel B,student,02/09/2025,yes,4.0,0.0
+U0252,DIVYA MISHRA,divya.mishra68@campus.edu.in,F,chem,4,Day Scholar,Student,2026-06-09,Y,8.0,1.0
+U0126,Aditya Reddy,aditya.reddy63@campus.edu.in,Male,,,Hostel B,student,2026-05-28,0,0.0,
+U0304,Mohit Bansal,mohit.bansal51@campus.edu.in,M,IT,4,Hostel E,student,2026-08-03,,2.0,0.0
+U0704,Kunal Sharma,kunal.sharma79@campus.edu.in,M,IT,4,Day Scholar,student,2026-09-20,yes,1.0,0.0
+U0069,Ayesha Das,ayesha.das@campus.edu.in,Female,IT,1,day scholar,Student,2025-12-20,N,0.0,
+U0546,Shreya Sharma,shreya.sharma40@campus.edu.in,F,cse,1,Hostel C,student,31 Jul 2025,0,,0.0
+U0301,Ananya Jain,ananya.jain53@campus.edu.in,F,IT,1,Hostel D,student,2024-12-28,True,0.0,0.0
+U0549,Yash Sharma,yash.sharma@campus.edu.in,Male,CE,3,Hostel A,student,2025-07-10,yes,4.0,1.0
+U0043,SHREYA NAIR,,F,biotech,Third Year,Hostel D,Student,2024-08-30,Y,2.0,0.0
+U0537,Deepak Das,deepak.das@campus.edu.in,,CSE,3,Hostel E,student,2025-11-14,N,6.0,2.0
+U0124,Aditi Reddy,aditi.reddy@campus.edu.in,F,Electrical,,Hostel D,student,2025-07-23,Y,3.0,0.0
+U0554,Yash Jain,yash.jain65@campus.edu.in,M,IT,4,hostel a,STUDENT,15/10/2025,True,3.0,0.0
+U0083,Vikram Saxena,vikram.saxena@campus.edu.in,M,CSE,3,Day Scholar,student,21/12/2025,0,7.0,
+U0130,Neha Khan,neha.khan@campus.edu.in,F,CE,2nd,hostel c,student,2024-12-20,,1.0,0.0
+U0342,Priya Saxena,priya.saxena69@campus.edu.in,F,CS,2,day scholar,student,"Mar 07, 2026",,1.0,0.0
+U0064,Amit Tiwari,amit.tiwari14@campus.edu.in,M,ECE,2nd,Hostel A,student,2025-12-11,,,0.0
+U0235,Harsh Verma,harsh.verma51@campus.edu.in,M,EE,First Year,hostel e,student,2026-06-25,,0.0,0.0
+U0327,Sakshi Reddy,sakshi.reddy33@campus.edu.in,F,CSE,3,Hostel C,student,14/10/2024,,4.0,1.0
+U0120,Arjun Jain,arjun.jain11@campus.edu.in,Male,CS,3,hostel a,student,2024-11-21,,5.0,1.0
+U0539,Amit Yadav,amit.yadav@campus.edu.in,M,Civil,3,Hostel A,student,2024-07-14,True,2.0,1.0
+U0307,Aarav Verma,aarav.verma36@campus.edu.in,Male,Chemical,1st,Hostel E,student,2024-09-07,no,3.0,0.0
+U0058,Ankit Khan,ankit.khan53@campus.edu.in,M,Civil,Third Year,Hostel A,student,2025-11-03,yes,3.0,1.0
+U0556,Divya Jain,divya.jain@campus.edu.in,,Information Technology,1,Day Scholar,student,2026-08-25,N,,0.0
+U0285,Ayesha Jain,ayesha.jain52campus.edu.in,F,IT,Final Year,Hostel C,student,2025-05-19,yes,3.0,0.0
+U0637,Saurabh Patel,saurabh.patel@campus.edu.in,Male,EE,1,hostel b,student,2025-06-02,False,0.0,0.0
+U0598,yash tiwari,yash.tiwari@campus.edu.in,Male,Electronics,3,Hostel A,student,2026-02-01,0,1.0,1.0
+U0148,Saurabh Chauhan,saurabh.chauhan@campus.edu.in,Male,CSE,3rd,Hostel E,student,29 Nov 2025,yes,3.0,0.0
+U0320,Harsh Gupta,harsh.gupta@campus.edu.in,M,BBA,Second Year,Hostel A,student,29 Dec 2024,yes,1.0,1.0
+U0323,sakshi kumar,sakshi.kumar@campus.edu.in,F,BBA,2 ,Hostel D,student,2026-06-07,False,2.0,1.0
+U0128,Sneha Mishra,sneha.mishra83@campus.edu.in,F,ME,1,Hostel C,student,2026-04-05,1,1.0,0.0
+U0195,Ananya Sharma,ananya.sharma@campus.edu.in,,CSE,,Day Scholar,Student,2025-09-20,Y,1.0,1.0
+U0593,Ananya Saxena,ananya.saxena55@campus.edu.in,F,IT,2,Hostel C,student,2025-05-20,,4.0,0.0
+U0063,Vikram Jain,vikram.jain5@campus.edu.in,,ME,2,Hostel E,student,2024-11-16,1,1.0,1.0
+U0703,Kavya Khan,kavya.khan@campus.edu.in,F,BBA,1,Day Scholar,student,18 Jul 2026,True,0.0,0.0
+U0645,Neha Saxena,neha.saxena32@campus.edu.in,Female,CSE,,hostel d,student,2024-08-12,,2.0,1.0
+U0434,aditya pandey,aditya.pandey@campus.edu.in,M,ce,1,Hostel B,Student,2026-09-07,False,0.0,0.0
+U0486,Rohan Tiwari,rohan.tiwari78@campus.edu.in,M,CE,1,hostel b,student,2026-05-04,,1.0,0.0
+U0198,Manish Chauhan,manish.chauhan@campus.con,M,Electrical,Second Year,hostel e,student,01/06/2026,0,3.0,
+U0627,Kavya Gupta,kavya.gupta@campus.edu.in,F,Chemical Engg,Third Year,Hostel C,student,15/05/2026,True,,0.0
+U0343,Vikram Reddy,,,CSE,4,Hostel B,student,2025-07-02,True,1.0,1.0
+U0474,Deepak Pandey,,M,ME,3,Hostel A,student,2026-03-10,1,1.0,0.0
+U0528,Mohit Sharma,mohit.sharma1@campus.edu.in,M,Electrical,2,Hostel B,Student,2024-11-30,yes,2.0,2.0
+U0411,Aarav Nair,aarav.nair@campus.edu.in,M,EE,1,hostel a,STUDENT,22/05/2026,,2.0,0.0
+U0638, Pranav Singh,PRANAV.SINGH46@CAMPUS.EDU.IN,M,ECE,2,Hostel A,student,2025-11-15,Y,3.0,1.0
+U0451,Kritika Chauhan,kritika.chauhan@campus.edu.in,F,CSE,1 ,,student,26 Dec 2024,,4.0,0.0
+U0032,Pranav Das,pranav.das74@campus.edu.in,Male,CS,4,,student,2024-12-07,,3.0,0.0
+U0205,Ananya Patel,,Female,ME,4,Day Scholar,student,30-09-25,N,6.0,1.0
+U0131,Aditi Saxena,aditi.saxena@campus.edu.in,Female,CSE,1,hostel d,student,2025-03-24,True,0.0,
+U0265,Ayesha Das,ayesha.das@campus.edu.in,F,MBA,3,Hostel D,student,28 Sep 2025,Y,2.0,0.0
+U0325,Manish Saxena,manish.saxena@campus.edu.in,M,ME,2,Hostel A,student,2026-07-05,,2.0,0.0
+U0623,Nikhil Patel,nikhil.patel@campus.edu.in,M,CSE,1st,hostel a,student,2025-01-18,1,0.0,0.0
+U0162,Raj Bansal,,M,ee,2nd,Hostel B,student,2026-03-19,True,3.0,
+U0496,Vikram Nair,vikram.nair26@campus.edu.in,M,ce,3rd,Hostel B,student,09-01-25,True,2.0,1.0
+U0027,Sakshi Joshi,sakshi.joshi@campus.edu.in,F,EE,1,Day Scholar,student,2025-10-21,N,0.0,0.0
+U0698,Sneha Saxena,sneha.saxena@campus.edu.in,Female,CSE,2nd,,student,2026-01-20,,1.0,1.0
+U0334,Rohan Joshi,rohan.joshi62@campus.edu.in,Male,IT,1,Hostel E,student,02/02/2025,1,0.0,0.0
+U0076,Aarav Chauhan,aarav.chauhan19@campus.edu.in,M,EE,2nd,Day Scholar,student,03-11-24,True,0.0,0.0
+U0514,Arjun Khan,arjun.khan@campus.edu.in,M,IT,2,Hostel A,student,06/01/2026,1,1.0,1.0
+U0282,Pranav Jain,pranav.jain33@campus.edu.in,M,CSE,4,Hostel A,Student,2024-08-17,yes,2.0,0.0
+U0319,Raj Yadav,RAJ.YADAV83@CAMPUS.EDU.IN,M,BBA,2,Day Scholar,student,2025-10-15,,1.0,0.0
+U0363,Ankit Tiwari,ankit.tiwari74@campus.edu.in,M,ECE,1 ,Day Scholar,student,20/12/2024,yes,2.0,1.0
+U0336,AMIT TIWARI,amit.tiwari@campus.edu.in,M,Chemical,Second Year,Hostel B,student,11/11/2024,,0.0,0.0
+U0366,Rahul Kumar,RAHUL.KUMAR6@CAMPUS.EDU.IN,M,CSE,1,Hostel E,Student,30-12-25,False,1.0,1.0
+U0619,RAHUL NAIR,rahul.nair16@campus.edu.in,,Biotech,,hostel a,student,2025-08-07,False,7.0,
+U0228,Rohan Pandey,rohan.pandey@campus.edu.in,,Chemical,3,Hostel A,student,2025-04-21,,2.0,0.0
+U0714,Mohit Saxena,mohit.saxena1@campus.edu.in,M,BT,3,Hostel E,student,2026-03-12,0,3.0,

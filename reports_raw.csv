@@ -1,0 +1,491 @@
+report_id,reporter_id,listing_id,reason,status,reviewed_by,created_at
+RP0143,U0142,L00946,Fake listing?,dismissed,U0066,12/10/2024 14:23
+RP0194,U0661,L02578,not suitable for campus,action_taken,U0681,2025-12-11 22:47:28
+RP0153,U0421,L02662,Spam listing,action_taken,U0115,2026-03-14 01:15:02
+RP0300,U0374,L00256,Owner not responding,listing removed,U0066,2025-02-22 07:25:28
+RP0048,U0534,L02915,Listing still showing but item gone,resolved,U0681,2026-09-16 16:15:32
+RP0332,U0391,L01232,not suitable for campus,Action Taken,U0581,2025-03-02 21:42:59
+RP0173,U0248,L01767,bhai item already de diya fir bhi dikh raha hai,action_taken,U0066,2024-09-08 03:05:46
+RP0316,U0123,L02567,Suspicious contact request,dismissed,U0066,26/07/2024 07:41
+RP0175,U0203,L01416,Misleading photos/description,resolved,U0066,2024-07-17 23:45:23
+RP0416,U0246,L00952,Looks like advertisement,action_taken,U0017,2026-06-18 00:26:50
+RP0112,U0246,L03028,,invalid,U0115,2025-09-13 03:09:42
+RP0044,U0240,L01409,Wrong category,action_taken,U0115,2026-08-22 16:11:36
+RP0299,U0468,L01952,Suspicious contact request,action_taken,U0017,2025-08-24 09:57:46
+RP0460,U0297,L02111,Asked me to pay advance,removed listing,U0066,"17 Dec 2024, 10:20 PM"
+RP0150,U0256,L02144,Fake listing?,resolved,U0681,10/09/2026 17:57
+RP0165,U0508,L02079,category galat hai,action_taken,U0581,2026-09-09 20:53:14
+RP0319,U0520,L03094,category galat hai,open,,2026-06-02 18:39:59
+RP0444,U0340,L02343,Item listed in wrong category,open,,19/11/2024 13:59
+RP0130,U0012,L02982,not suitable for campus,Resolved,U0115,2025-09-05 19:33:26
+RP0334,u0501,L02156,Fake listing?,open,,2025-08-16 15:22:53
+RP0103,U0177,L00110,bhai item already de diya fir bhi dikh raha hai,action_taken,U0066,2026-03-18 03:42:08
+RP0404,U0122,L01613,not suitable for campus,action_taken,U0581,2025-03-24 03:14:22
+RP0168,U0090,L00773,Inappropriate description,action_taken,U0070,2024-08-16 11:14:06
+RP0224,U0174,L02764,Price/condition does not match,resolved,U0581,2026-05-05 10:05:10
+RP0403,U0297,L03086,Offensive language in listing,Resolved,U0681,06/09/2025 17:46
+RP0262,U0161,L01922,Fake listing?,resolved,U0066,2025-07-16 08:51:02
+RP0326,U0496,L01642,Offensive language in listing,resolved,U0681,2026-02-14 08:08:17
+RP0330,U0525,L01627,jhoota listing lag raha hai,resolved,U0017,2026-07-25 23:47:28
+RP0132,U0403,L02849,Spam listing,action_taken,U0115,2026-07-09 14:40:26
+RP0371,U0468,L00471,Asked me to pay advance,action_taken,U0115,2025-10-24 11:54:53
+RP0406,U0633,L00403,Looks like advertisement,removed listing,U0581,03-21-2026 23:32
+RP0276,U0192,L01982,bhai item already de diya fir bhi dikh raha hai,dismissed,U0581,06-26-2026 21:57
+RP0174,U0240,L00974,Offensive language in listing,action_taken,U0066,2026-02-22 21:11:54
+RP0155,U0656,L02970,Item already given away,resolved,U0066,2026-03-23 12:05:29
+RP0152,U0506,L02269,Asked me to pay advance,listing removed,U0115,2026-04-06 05:50:01
+RP0226,U0438,L01084,Owner not responding,invalid,U0017,06/08/2025 07:06
+RP0347,U0622,L03165,Owner asking for money,action taken,U0581,"23 Sep 2024, 01:51 PM"
+RP0108,U0039,L02888,Owner not responding,action_taken,U0681,2026-08-14 03:22:07
+RP0025,U0471,L01981,Misleading photos/description,open,,01/09/2025 17:35
+RP0236,U0021,L00012,Wrong category,resolved,U0017,2025-02-15 08:28:03
+RP0099,U0108,L00489,same item posted many times,action_taken,U0115,"31 May 2026, 01:12 AM"
+RP0366,U0145,L02001,Offensive language in listing,action_taken,U0581,08/10/2026 14:11
+RP0218,U0476,L01788,Listing still showing but item gone,dismissed,U0115,10/10/2025 09:56
+RP0425,U0164,L00285,same item posted many times,dismissed,U0581,2026-07-04 19:45:02
+RP0445,U0036,L00255,Misleading photos/description,action_taken,U0017,05-01-2025 21:40
+RP0363,U0360,L00520,Offensive language in listing,Resolved,U0066,2025-04-30 04:52:54
+RP0333,U0423,L00796,Owner asking for money,listing removed,U0017,18/07/2025 21:50
+RP0164,U0608,L01028,Misleading photos/description,resolved,U0066,2026-03-20 12:49:52
+RP0182,U0719,L02368,Wrong category,dismissed,U0581,2025-01-16 19:30:32
+RP0066,U0648,L01098,,resolved,U0070,13/11/2024 15:50
+RP0431,U0684,L02507,Owner not responding,resolved,U0115,2025-12-16 06:14:50
+RP0008, U0231,L01221,Asked me to pay advance,action_taken,U0115,2026-02-23 18:52:32
+RP0120,U0419,L00366,Owner asking for money,Action Taken,U0017,2025-01-04 02:00:25
+RP0185,U0359,L02083,Fake listing?,resolved,U0070,"10 May 2026, 01:25 AM"
+RP0115,U0098,L01078,Price/condition does not match,dismissed,U0581,2025-09-17 17:07:59
+RP0117,U0251,L00198,,closed,U0115,2026-03-19 10:03:31
+RP0302,U0718,L00404,Listing still showing but item gone,open,,12/06/2025 08:40
+RP0356,U0442,L00608,Owner asking for money,dismissed,U0681,"16 Sep 2025, 10:08 PM"
+RP0472,U0170,L01041,Suspicious contact request,action taken,U0581,2025-06-01 12:43:37
+RP0265,U0300,L02735,Looks like advertisement,action_taken,U0066,2026-03-11 05:49:11
+RP0465,U0148,L01923,,action_taken,U0581,11/07/2025 02:21
+RP0331,U0329,L02386,Misleading photos/description,open,,2025-01-12 09:52:48
+RP0246,U0050,L01256,,action_taken,U0017,"21 May 2025, 01:53 PM"
+RP0212,U0047,L00991,Item listed in wrong category,resolved,U0066,18/07/2026 16:13
+RP0215,U0654,L02167,Wrong category,dismissed,U0017,"14 Sep 2025, 08:23 PM"
+RP0310,U0059,L03028,Suspicious contact request,dismissed,U0066,2025-09-10 02:46:25
+RP0061,U0336,L01735,Listing still showing but item gone,listing removed,U0017,2025-08-31 18:31:00
+RP0261,U0466,L00053,Item listed in wrong category,rejected,U0681,2025-05-03 19:18:32
+RP0007,U0041,L00840,Offensive language in listing,listing removed,U0017,19/09/2024 15:35
+RP0232,U0375,L01175,Suspicious contact request,listing removed,U0070,23/07/2024 01:32
+RP0441,U0208,L00977,bhai item already de diya fir bhi dikh raha hai,open,,2024-11-03 22:04:51
+RP0324,U0213,L00253,Inappropriate description,listing removed,U0115,01-06-2026 01:24
+RP0317,U0689,L00744,Item already given away,action_taken,U0017,"29 Sep 2025, 08:54 PM"
+RP0092,U0506,L00844,Price/condition does not match,listing removed,U0581,"01 Apr 2026, 04:23 PM"
+RP0241,U0255,L02771,Owner not responding,Open,,2025-03-24 11:06:17
+RP0213,U0677,L01540,bhai item already de diya fir bhi dikh raha hai,invalid,U0115,2026-03-29 08:15:24
+RP0405,U0312,L00086,Misleading photos/description,closed,U0070,2025-02-14 01:39:29
+RP0384,U0182,L01727,Fake listing?,action_taken,U0581,15/10/2024 10:47
+RP0002,U0059,L01787,,action_taken,U0066,2025-10-03 05:56:54
+RP0158,U0658,L02372,Offensive language in listing,listing removed,U0115,16/09/2024 03:32
+RP0062,U0390,L00295,jhoota listing lag raha hai,Dismissed,U0681,2025-10-13 07:36:24
+RP0011,U0653,L00639,,Action Taken,U0070,2026-07-22 00:11:42
+RP0082,U0538,L01364,not suitable for campus,dismissed,U0115,"08 Jul 2025, 03:50 PM"
+RP0433,U0550,L02245,Suspicious contact request,Dismissed,U0070,2026-05-06 14:28:26
+RP0315,U0323,L00058,Owner not responding,pending,,29/04/2025 13:02
+RP0434,U0294,L02822,category galat hai,listing removed,U0581,23/02/2026 14:46
+RP0228,U0536,L02699,category galat hai,dismissed,U0581,2025-07-11 09:33:41
+RP0089,U0278,L00498,Item listed in wrong category,resolved,U0070,2025-07-23 02:23:55
+RP0051,U0063,L01266,Asked me to pay advance,action_taken,U0115,"19 Jul 2026, 09:32 AM"
+RP0381,U0496,L03020,Listing still showing but item gone,Action Taken,U0581,"30 Sep 2025, 05:48 PM"
+RP0035,U0472,L00898,not suitable for campus,action_taken,U0681,2025-04-03 12:05:15
+RP0079,U0384,L01225,,action_taken,U0066,02-01-2026 21:48
+RP0184,U0631,L02900,Spam listing,resolved,U0070,2026-09-13 08:04:41
+RP0337,U0014,L01937,spam / ad,dismissed,U0017,"03 Jul 2025, 09:40 AM"
+RP0101,U0368,L01355,jhoota listing lag raha hai,rejected,U0115,2025-09-01 21:52:06
+RP0344,U0151,L00638,Offensive language in listing,action_taken,U0581,2025-09-06 22:41:11
+RP0229,U0703,L02029,Item listed in wrong category,action_taken,U0581,03/11/2025 01:03
+RP0140,U0718,L02758,Listing still showing but item gone,action taken,U0070,14/09/2025 06:59
+RP0147,U0712,L02965,Owner asking for money,resolved,U0070,"26 Sep 2026, 08:11 AM"
+RP0243,U0582,L01240,Item listed in wrong category,resolved,U0070,"09 Oct 2026, 12:00 AM"
+RP0369,U0046,L01646,Owner asking for money,action taken,U0581,15/05/2026 23:10
+RP0462,U0381,L01423,jhoota listing lag raha hai,open,,"09 Mar 2025, 10:21 PM"
+RP0069,U0430,L00381,Fake listing?,action taken,U0070,2025-07-27 07:54:34
+RP0301,U0020,L02814,Owner not responding,Dismissed,U0066,2024-07-28 19:50:15
+RP0327,U0594,L03086,bhai item already de diya fir bhi dikh raha hai,open,,2025-09-01 16:06:54
+RP0220,U0663,L00463,Listing still showing but item gone,open,,18/07/2024 00:41
+RP0223,U0309,L02370,category galat hai,closed,U0017,2024-07-30 06:36:51
+RP0478,U0408,L00329,Owner not responding,action_taken,U0115,17/09/2026 19:12
+RP0297,U0244,L02537,Listing still showing but item gone,open,,2026-08-30 07:22:10
+RP0027,U0264,L02353,Wrong category,invalid,U0066,2025-07-14 08:58:53
+RP0267,U0182,L01498,Wrong category,resolved,U0066,2026-10-09 00:00:00
+RP0328,U0337,L02524,Misleading photos/description,resolved,U0017,08-24-2025 19:07
+RP0390,U0342,L01287,Item already given away,resolved,U0681,27/03/2026 04:30
+RP0298,U0034,L02214,Item listed in wrong category,resolved,U0066,2024-08-20 02:44:25
+RP0209,U0150,L01409,spam / ad,action_taken,U0115,2026-08-13 13:38:37
+RP0100,U0188,L02421,Suspicious contact request,Action Taken,U0070,2026-02-21 13:45:08
+RP0239,U0668,L00807,Item already given away,resolved,U0581,2026-03-06 11:20:15
+RP0250,U0166,L00886,Wrong category,action_taken,U0115,2024-10-26 16:53:22
+RP0429,U0400,L00201,bhai item already de diya fir bhi dikh raha hai,resolved,U0066,2024-11-16 10:17:00
+RP0195,U0617,l00484,Wrong category,action_taken,U0070,2025-02-16 08:29:57
+RP0242,U0406,L02220,,Resolved,U0017,2024-11-24 05:23:21
+RP0198,U0656,L02668,Inappropriate description,resolved,U0070,30/04/2025 15:14
+RP0073,U0425,L00349,Item already given away,dismissed,U0066,2025-08-22 08:36:29
+RP0305,U0684,L03200,Fake listing?,resolved,U0017,06/01/2025 03:43
+RP0400,U0459,L02057,Spam listing,action_taken,U0017,07/03/2026 21:08
+RP0071,U0374,L00005,Suspicious contact request,open,,2025-06-21 07:22:55
+RP0189,U0597,L02634,Listing still showing but item gone,action_taken,U0581,2026-06-17 05:11:55
+RP0162,U0308,L02522,Item listed in wrong category,dismissed,U0017,2025-03-21 15:30:34
+RP0335,U0127,L00814,Item already given away,resolved,U0070,2024-08-29 18:36:18
+RP0277,U0077,L02580,Item already given away,resolved,U0017,23/06/2025 02:41
+RP0176,U0060,L01406,Owner not responding,resolved,U0115,2026-08-19 10:37:26
+RP0081,U0004,L02486,same item posted many times,action_taken,U0070,16/10/2025 04:05
+RP0427,U0542,L02541,Owner not responding,dismissed,U0070,2025-03-21 09:08:20
+RP0430,u0392,L02164,Listing still showing but item gone,listing removed,U0681,2025-12-29 18:59:09
+RP0283,U0408,L02821,Item already given away,Open,,2024-12-13 01:21:00
+RP0282,U0331,L01367,Item already given away,closed,U0115,2025-08-13 10:01:48
+RP0127,U0609,L00415,Item already given away,invalid,U0681,2025-02-03 13:08:58
+RP0191,U0277,L00281,Item already given away,action_taken,U0581,2025-02-28 08:46:04
+RP0057,U0444,L02874,,invalid,U0066,2025-09-12 13:37:23
+RP0038,U0536,L01754,Inappropriate description,closed,U0070,2026-07-10 16:52:03
+RP0067,U0277,L00293,Listing still showing but item gone,dismissed,U0017,19/10/2025 23:15
+RP0342,U0523,L02625,Owner not responding,invalid,U0066,2025-10-02 00:00:31
+RP0013,U0088,L00353,Fake listing?,resolved,U0017,03/01/2025 00:43
+RP0098,U0476,L01768,Offensive language in listing,listing removed,U0115,2024-07-14 23:59:02
+RP0131,U0098,L01593,Inappropriate description,listing removed,U0681,2024-12-20 17:57:16
+RP0463,U0353,L02296,bhai item already de diya fir bhi dikh raha hai,resolved,U0581,26/05/2026 04:31
+RP0085,U0719,L00401,,action_taken,U0681,2026-03-27 11:40:35
+RP0380,U0130,L01207,Wrong category,resolved,U0115,2026-07-06 13:15:56
+RP0102,U0668,L00736,not suitable for campus,action_taken,U0066,30/05/2025 21:35
+RP0443,U0123,L02714,jhoota listing lag raha hai,action_taken,U0581,21/12/2025 18:06
+RP0419,U0364,L01045,Inappropriate description,Dismissed,U0070,2024-09-17 07:51:15
+RP0438,U0666,L01281,Looks like advertisement,action_taken,U0017,2025-06-24 12:09:01
+RP0177,U0638,L00266,not suitable for campus,action_taken,U0070,2026-09-04 00:10:49
+RP0077,U0177,L02565,not suitable for campus,action_taken,U0066,"04 Mar 2026, 05:53 AM"
+RP0294,U0241,L02562,Listing still showing but item gone,action_taken,U0581,2026-05-09 11:49:22
+RP0148,U0313,L01643,,dismissed,U0070,2026-03-22 23:17:01
+RP0332,U0391,L01232,not suitable for campus,Action Taken,U0581,2025-03-02 21:42:59
+RP0376,U0552,L00513,Looks like advertisement,action_taken,U0681,"04 Apr 2025, 09:35 PM"
+RP0304,U0077,L00328,Owner not responding,open,,15/02/2025 06:03
+RP0114,U0429,L00841,category galat hai,open,,2026-08-13 22:26:44
+RP0359,U0543,L02872,Listing still showing but item gone,dismissed,U0581,29/06/2026 04:31
+RP0461,U0446,L02936,same item posted many times,action_taken,U0581,2026-07-10 04:36:08
+RP0053,U0132,L02010,Fake listing?,OPEN,,"08 Apr 2025, 05:46 PM"
+RP0028,U0579,L02984,Item listed in wrong category,open,,2026-09-06 10:38:12
+RP0281,U0382,L00828,Listing still showing but item gone,dismissed,U0115,2026-08-07 12:27:15
+RP0065,U0416,L00063,Fake listing?,Action Taken,U0017,2026-02-22 19:28:37
+RP0110,U0629,L01237,not suitable for campus,resolved,U0581,2025-06-13 14:50:15
+RP0156,U0275,L00304,Suspicious contact request,action_taken,U0581,23/03/2025 10:21
+RP0360,U0257,L00054,Suspicious contact request,action_taken,U0681,09/09/2026 05:17
+RP0111,U0702,L02343,category galat hai,resolved,U0681,2024-12-11 08:00:03
+RP0039,U0029,L00489,Asked me to pay advance,action_taken,U0070,22/06/2026 11:38
+RP0106,U0338,L01234,jhoota listing lag raha hai,resolved,U0070,12/02/2025 04:57
+RP0193,U0189,L01624,Item listed in wrong category,dismissed,U0115,"06 Nov 2024, 02:41 PM"
+RP0219,U0012,L01587,Item listed in wrong category,rejected,U0581,2025-04-26 13:39:47
+RP0459,U0516,L02761,Item listed in wrong category,dismissed,U0070,2025-03-20 12:32:36
+RP0200,U0615,L02737,,open,,22/05/2026 12:52
+RP0076,U0402,L02212,Item already given away,resolved,U0066,20/07/2026 10:13
+RP0374,U0443,L00689,Suspicious contact request,rejected,U0017,"23 Feb 2026, 03:11 AM"
+RP0311,U0009,L00909,jhoota listing lag raha hai,Open,,"22 Sep 2026, 12:00 PM"
+RP0122,U0621,L00364,Listing still showing but item gone,Resolved,U0070,11/09/2026 13:35
+RP0258,U0637,L00326,Spam listing,Action Taken,U0017,01/11/2024 13:54
+RP0373,U0682,L01646,Inappropriate description,action_taken,U0581,23/04/2026 20:33
+RP0070,U0607,L03063,Owner not responding,dismissed,U0581,2026-07-08 11:26:15
+RP0161,U0679,L02942,not suitable for campus,action_taken,U0681,2026-06-26 10:00:19
+RP0367,U0437,L02019,Price/condition does not match,dismissed,U0070,2024-08-30 10:24:49
+RP0253,U0575,L02039,Inappropriate description,action_taken,U0070,2026-01-23 16:13:09
+RP0059,U0673,L00399,Owner not responding,rejected,U0066,19/07/2026 14:27
+RP0295,U0558,L01543,Owner asking for money,listing removed,U0581,27/10/2024 03:12
+RP0263,U0239,L01791,bhai item already de diya fir bhi dikh raha hai,Resolved,U0581,2025-10-07 09:22:28
+RP0058,U0511,L02841,Price/condition does not match,closed,U0581,2024-10-07 06:29:06
+RP0088,U0204,L01357,Asked me to pay advance,resolved,U0070,2025-12-25 07:18:41
+RP0171,U0169,L01040,Misleading photos/description,action_taken,U0681,2024-07-30 15:50:52
+RP0420,U0170,L02491,Wrong category,removed listing,U0070,24/04/2026 21:33
+RP0352,U0369,L03002,Listing still showing but item gone,open,,2025-02-02 07:46:16
+RP0237,U0033,L01736,jhoota listing lag raha hai,action_taken,U0066,17/05/2025 23:55
+RP0093,U0620,L03156,,closed,U0070,2026-02-18 12:24:18
+RP0107,U0512,L02769,Item already given away,action taken,U0017,2026-07-19 01:10:09
+RP0030,U0546,L00656,not suitable for campus,action_taken,U0581,2024-12-08 22:17:16
+RP0292,U0461,L02127,Asked me to pay advance,action taken,U0681,11/07/2026 14:29
+RP0192,U0335,L00064,category galat hai,Dismissed,U0070,2024-08-08 23:08:13
+RP0348,u0014,L00813,Price/condition does not match,closed,U0581,2026-03-10 05:21:38
+RP0288,U0530,L01418,,rejected,U0066,2025-01-11 09:49:15
+RP0018,U0256,L02422,Item already given away,rejected,U0681,02-27-2025 17:29
+RP0402,U0376,L01561,,resolved,U0581,2026-04-10 23:32:14
+RP0003,U0665,L00172,Owner not responding,invalid,U0066,"17 Jul 2025, 09:52 AM"
+RP0060,U0337,L00689,Listing still showing but item gone,closed,U0581,2026-03-10 11:10:52
+RP0064,U0030,L01801,Owner not responding,open,,2025-06-23 18:06:10
+RP0026,U0263,L02571,Fake listing?,action_taken,U0681,2024-12-07 14:45:34
+RP0346,U0189,L01750,Item listed in wrong category,Resolved,U0681,2024-08-18 01:45:58
+RP0231,U0074,L00641,Wrong category,invalid,U0115,11/02/2026 08:48
+RP0296,U0080,L02081,Owner asking for money,action_taken,U0066,2026-02-04 01:18:57
+RP0446,U0244,L01004,Item listed in wrong category,resolved,U0681,2026-08-30 08:12:36
+RP0392,U0632,L02187,same item posted many times,action taken,U0070,2026-05-28 12:31:13
+RP0021,U0298,L00061,Spam listing,action taken,U0017,2026-03-22 04:19:33
+RP0440,U0402,L00997,jhoota listing lag raha hai,Resolved,U0017,2025-07-12 06:16:12
+RP0188,U0515,L02025,Listing still showing but item gone,open,,"26 Sep 2026, 03:18 AM"
+RP0208,U0590,L03037,Spam listing,invalid,U0581,2024-07-12 14:21:30
+RP0418,U0014,L01206,Misleading photos/description,Resolved,U0581,2026-03-21 07:02:19
+RP0167,U0611,L02862,same item posted many times,listing removed,U0581,18/04/2025 09:15
+RP0227,U0255,L01575,jhoota listing lag raha hai,closed,U0066,2025-06-07 05:11:59
+RP0351,U0205,L01122,Item listed in wrong category,dismissed,U0681,2026-06-22 20:56:02
+RP0125,U0064,L01251,spam / ad,Action Taken,U0070,2025-06-28 18:44:50
+RP0196,U0309,L00208,spam / ad,action_taken,U0681,2024-12-06 21:01:29
+RP0318,U0687,L02319,,invalid,U0115,25/03/2025 08:25
+RP0362,U0302,L02411,Owner not responding,action_taken,U0017,2024-10-05 16:16:01
+RP0105,U0043,L01438,Inappropriate description,dismissed,U0681,14/02/2026 16:40
+RP0308,U0522,L02587,Wrong category,pending,,11/01/2026 02:02
+RP0340,U0611,L02552,Owner not responding,open,,12-08-2025 19:42
+RP0473,U0141,L01194,Listing still showing but item gone,dismissed,U0066,2025-10-09 00:03:33
+RP0303,U0067,L00261,not suitable for campus,action_taken,U0070,"19 Jul 2025, 06:20 PM"
+RP0280,U0444,L02111,Owner not responding,dismissed,U0681,"01 Jan 2025, 03:51 AM"
+RP0037,U0395,L00292,Item already given away,Action Taken,U0017,2025-07-31 16:00:31
+RP0139,U0280,L02377,Wrong category,pending,,"11 Sep 2026, 08:35 PM"
+RP0254,U0126,L01042,Item listed in wrong category,dismissed,U0581,31/08/2025 18:33
+RP0270,U0644,L01216,,action_taken,U0681,2026-02-21 05:48:33
+RP0470,U0203,L02678,Item listed in wrong category,closed,U0066,2026-04-25 08:24:01
+RP0476,U0485,L01840,Item already given away,dismissed,U0070,"21 Mar 2025, 07:37 AM"
+RP0211,U0556,L01653,bhai item already de diya fir bhi dikh raha hai,open,,03-05-2025 06:56
+RP0458,U0120,L01413,bhai item already de diya fir bhi dikh raha hai,resolved,U0070,2026-02-14 00:41:19
+RP0358,U0678,L02179,Item already given away,resolved,U0017,2025-03-12 00:55:21
+RP0395,U0612,L00640,Item listed in wrong category,dismissed,U0017,09/10/2026 00:00
+RP0479,U0191,L00779,Item already given away,resolved,U0070,2025-08-22 09:28:36
+RP0450,U0346,L02698,Owner not responding,Open,,2025-08-22 12:42:41
+RP0121,U0331,L00836,Item listed in wrong category,action_taken,U0681,2024-10-22 03:16:49
+RP0036,U0581,L00475,Misleading photos/description,resolved,U0115,02/08/2026 16:08
+RP0275,U0307,L01788,Listing still showing but item gone,dismissed,U0581,2025-08-31 21:58:56
+RP0398,U0361,L00572,Looks like advertisement,OPEN,,"22 May 2026, 04:00 AM"
+RP0020,U0186,L02480,Owner asking for money,resolved,U0581,2025-04-15 08:15:03
+RP0309,U0312,L01954,Listing still showing but item gone,Resolved,U0070,2026-03-28 20:21:27
+RP0133,U0571,L00531,Owner not responding,dismissed,U0681,2025-04-30 01:30:09
+RP0203,U0229,L02803,Spam listing,action_taken,U0581,2026-08-23 03:20:39
+RP0278,U0225,L02779,Wrong category,resolved,U0581,2026-05-01 00:52:26
+RP0387,U0067,L01171,category galat hai,action taken,U0066,2025-08-10 15:02:38
+RP0190,U0400,L01854,Listing still showing but item gone,action_taken,U0681,"22 Nov 2024, 06:21 PM"
+RP0199,U0450,L01573,Misleading photos/description,action_taken,U0070,2024-10-07 04:42:17
+RP0109,U0253,L01728,Wrong category,resolved,U0581,"25 Aug 2024, 08:44 AM"
+RP0248,U0520,L02702,Asked me to pay advance,action_taken,U0581,2026-01-18 12:36:40
+RP0006,U0434,L03118,Wrong category,action_taken,U0115,2025-08-11 08:11:43
+RP0149,U0167,L03025,Fake listing?,Dismissed,U0070,07/08/2025 23:47
+RP0368,U0123,L01970,Spam listing,action_taken,U0066,2025-08-19 23:32:21
+RP0466,U0299,L02369,bhai item already de diya fir bhi dikh raha hai,open,,2025-10-13 16:01:31
+RP0352,U0369,L03002,Listing still showing but item gone,open,,2025-02-02 07:46:16
+RP0205,U0716,L03193,Owner asking for money,action_taken,U0581,2026-03-01 13:18:39
+RP0375,U0644,L00016,Listing still showing but item gone,OPEN,,"08 Nov 2024, 07:17 AM"
+RP0022,U0345,L02043,Offensive language in listing,action_taken,U0066,2025-03-12 00:20:31
+RP0320,U0276,L02656,,resolved,U0581,11/08/2024 21:50
+RP0128,U0486,L01838,Inappropriate description,action_taken,U0115,2026-08-03 17:35:10
+RP0050,U0673,L00419,,open,,16/04/2026 02:33
+RP0313,U0265,L03159,Listing still showing but item gone,action_taken,U0581,2024-08-29 18:55:27
+RP0382,U0392,L02839,Spam listing,action_taken,U0681,2026-01-18 18:23:35
+RP0415,U0477,L00516,same item posted many times,resolved,U0066,2026-05-21 04:25:32
+RP0475,U0051,L02698,Listing still showing but item gone,Resolved,U0681,08-25-2025 17:22
+RP0252,U0060,L01537,Owner asking for money,action_taken,U0115,2025-02-06 12:31:28
+RP0279,U0544,L00667,Owner not responding,resolved,U0115,16/09/2026 07:00
+RP0350,U0033,L00077,Spam listing,action_taken,U0581,2025-03-29 19:48:30
+RP0386,U0405,L01786,Item already given away,resolved,U0070,2026-09-17 19:50:39
+RP0118,U0402,L02974,Looks like advertisement,action_taken,U0066,2025-08-03 15:41:28
+RP0271,U0549,L01816,Item already given away,open,,2026-04-15 16:53:59
+RP0289,U0665,L01861,not suitable for campus,open,,07/12/2024 23:09
+RP0001,U0495,L03143,spam / ad,closed,U0581,"14 Sep 2024, 11:01 AM"
+RP0306,U0620,L02702,Price/condition does not match,dismissed,U0581,01-30-2026 16:30
+RP0056,U0377,L02869,Wrong category,Resolved,U0070,2026-07-29 21:49:37
+RP0401,U0386,L01581,Wrong category,resolved,U0115,2025-12-22 03:41:48
+RP0312,U0072,L01901,Suspicious contact request,action_taken,U0066,07/03/2025 22:40
+RP0378,U0600,L02133,Item already given away,action_taken,U0115,05/02/2025 04:35
+RP0084,U0311,L01779,Owner not responding,action_taken,U0115,2026-03-15 00:11:11
+RP0417,U0623,L01332,bhai item already de diya fir bhi dikh raha hai,resolved,U0066,2026-03-06 09:34:19
+RP0206,U0087,L01927,Listing still showing but item gone,resolved,U0681,07-22-2026 04:13
+RP0480,U0318,L02093,spam / ad,action_taken,U0070,08-27-2025 17:04
+RP0426,U0455,L01229,Asked me to pay advance,action_taken,U0115,01-16-2025 04:10
+RP0187,U0017,L02920,Item listed in wrong category,removed listing,U0581,2025-07-23 05:50:38
+RP0087,U0532,L01302,,action_taken,U0115,05/11/2024 14:13
+RP0047,U0146,L03011,,action_taken,U0066,2024-12-08 06:46:10
+RP0329,U0295,L02986,Wrong category,Open,,2025-04-09 06:55:49
+RP0163,U0321,L03200,bhai item already de diya fir bhi dikh raha hai,rejected,U0581,2025-02-21 11:40:54
+RP0444,U0340,L02343,Item listed in wrong category,open,,19/11/2024 13:59
+RP0413,U0380,L03135,Wrong category,dismissed,U0070,2025-09-14 01:21:29
+RP0451,U0590,L00448,category galat hai,action_taken,U0070,2024-09-13 16:42:35
+RP0336,U0259,L02012,same item posted many times,closed,U0581,2025-03-01 10:10:24
+RP0259,U0331,L01590,Item already given away,resolved,U0115,2024-08-18 01:27:16
+RP0138,U0106,L02973,Item already given away,pending,,29/03/2025 01:30
+RP0355,U0015,L00183,Owner asking for money,resolved,U0115,2025-03-21 08:20:09
+RP0447,U0561,L02364,Wrong category,dismissed,U0581,17/07/2025 19:46
+RP0197,U0618,L02168,Item listed in wrong category,open,,30/11/2024 04:46
+RP0181,U0692,L02314,same item posted many times,resolved,U0581,11/03/2025 16:07
+RP0010,U0570,L02501,Item already given away,dismissed,U0070,2025-12-12 14:32:33
+RP0260,U0063,L00988,jhoota listing lag raha hai,resolved,U0581,06-25-2026 17:37
+RP0033,U0570,L02846,Listing still showing but item gone,open,,11-11-2025 03:55
+RP0422,U0481,L00060,Spam listing,resolved,U0066,2026-07-11 11:46:39
+RP0264,U0091,L01157,Price/condition does not match,open,,2026-04-21 03:39:02
+RP0345,U0077,L03130,jhoota listing lag raha hai,closed,U0681,26/03/2025 21:16
+RP0104,U0487,L03072,Listing still showing but item gone,dismissed,U0066,2024-09-02 10:09:18
+RP0040,U0712,L02366,category galat hai,closed,U0070,2025-08-31 19:58:02
+RP0029,U0330,L01027,Offensive language in listing,resolved,U0017,2025-08-18 16:41:05
+RP0216,U0322,L01983,Wrong category,Resolved,U0066,2026-08-16 10:51:06
+RP0412,U0295,L01790,Item already given away,listing removed,U0681,2026-06-25 03:15:19
+RP0170,U0017,L01604,category galat hai,resolved,U0581,2025-09-01 05:50:28
+RP0455,U0664,L01737,,Action Taken,U0017,2025-04-17 09:30:33
+RP0325,U0476,L02218,Item already given away,resolved,U0681,04/04/2026 16:53
+RP0207,U0127,L02969,Looks like advertisement,resolved,U0017,2024-09-21 23:19:28
+RP0154,U0488,L02078,,dismissed,U0581,2026-03-12 08:41:50
+RP0189,U0597,L02634,Listing still showing but item gone,action_taken,U0581,2026-06-17 05:11:55
+RP0031,U0326,L00252,Item already given away,dismissed,U0070,2026-04-04 10:31:45
+RP0256,U0581,L00302,Owner not responding,dismissed,U0017,09-21-2026 14:34
+RP0214,U0623,L00037,Suspicious contact request,action_taken,U0115,2026-01-05 18:54:46
+RP0137,U0459,L00061,Offensive language in listing,action_taken,U0066,2026-04-04 18:18:46
+RP0411,U0473,L02835,spam / ad,listing removed,U0017,2025-05-26 10:23:02
+RP0452,U0643,L01774,not suitable for campus,action_taken,U0115,03/05/2025 23:53
+RP0169,U0284,L00028,Asked me to pay advance,action_taken,U0066,2026-04-10 19:25:06
+RP0477,U0281,L00211,Listing still showing but item gone,rejected,U0581,2025-07-10 05:38:00
+RP0230,U0178,L02120,bhai item already de diya fir bhi dikh raha hai,closed,U0115,2025-09-20 14:26:32
+RP0225,U0053,L00684,Offensive language in listing,Open,,2025-02-21 20:37:12
+RP0172,U0220,L00689,Item already given away,action_taken,U0115,20/03/2026 07:59
+RP0449,U0659,L03079,Wrong category,resolved,U0070,02/10/2024 10:27
+RP0268,U0134,L02721,Wrong category,open,,2024-07-06 17:55:44
+RP0116, U0581,L02164,Listing still showing but item gone,action_taken,U0581,29/12/2025 01:13
+RP0385,U0462,L03182,,action_taken,U0681,09/07/2026 05:02
+RP0049,U0626,L01010,not suitable for campus,resolved,U0017,2025-06-02 02:35:29
+RP0437,U0239,L02608,Owner not responding,invalid,U0066,2026-08-23 04:12:40
+RP0399,U0513,L00854,Owner asking for money,listing removed,U0070,29/06/2026 17:01
+RP0391,u0620,L02504,category galat hai,resolved,U0681,"06 Aug 2024, 05:28 PM"
+RP0083,U0338,L02827,Listing still showing but item gone,action_taken,U0070,2026-09-07 04:32:48
+RP0096,U0082,L00823,Item already given away,resolved,U0017,2025-03-03 15:48:52
+RP0068,U0588,L02922,Offensive language in listing,open,,21/08/2026 21:15
+RP0323,U0479,L00592,Wrong category,invalid,U0066,06-06-2025 03:24
+RP0097,U0585,L02010,Owner not responding,resolved,U0066,2025-04-03 08:55:47
+RP0023, U0345,L02749,Owner asking for money,removed listing,U0070,04-11-2026 18:53
+RP0255,U0013,L01381,Asked me to pay advance,listing removed,U0066,"07 Mar 2026, 12:47 PM"
+RP0245,U0181,L00064,Item listed in wrong category,Resolved,U0066,02/09/2024 17:52
+RP0379,U0437,L02359,not suitable for campus,action_taken,U0066,"06 Nov 2025, 01:11 PM"
+RP0160,U0378,L02789,bhai item already de diya fir bhi dikh raha hai,removed listing,U0115,01/10/2024 12:00
+RP0377,U0383,L01632,Looks like advertisement,action_taken,U0070,23/08/2024 15:25
+RP0145,U0115,L00865,Wrong category,dismissed,U0681,2024-08-27 11:13:38
+RP0210,U0195,L00764,,resolved,U0070,01-21-2025 14:29
+RP0448,U0365,L01828,bhai item already de diya fir bhi dikh raha hai,open,,"10 Sep 2026, 02:43 PM"
+RP0393,U0146,L00909,Offensive language in listing,closed,U0681,15/09/2026 01:48
+RP0091,U0190,L00004,Item listed in wrong category,action_taken,U0070,2025-03-11 08:06:11
+RP0042,U0166,L02825,same item posted many times,rejected,U0070,2024-08-04 13:57:15
+RP0234,U0688,L01231,,dismissed,U0070,07-06-2026 22:32
+RP0338,U0225,L01034,Owner not responding,open,,24/02/2026 13:02
+RP0388,U0472,L02304,Wrong category,OPEN,,2025-03-18 21:25:20
+RP0397,U0349,L03081,bhai item already de diya fir bhi dikh raha hai,action_taken,U0681,03-14-2025 07:46
+RP0054,U0450,L01846,Item listed in wrong category,dismissed,U0070,"19 Sep 2026, 01:58 AM"
+RP0179,U0024,L00350,Misleading photos/description,invalid,U0681,31/01/2026 17:22
+RP0274,U0078,L01612,Price/condition does not match,removed listing,U0681,21/07/2024 13:36
+RP0456,U0514,L01011,Offensive language in listing,resolved,U0581,2025-02-17 11:16:45
+RP0389,U0605,L00561,Listing still showing but item gone,dismissed,U0066,03/08/2025 07:55
+RP0052,U0253,L01427,Owner asking for money,open,,2024-08-13 20:58:21
+RP0015,U0470,L01775,category galat hai,listing removed,U0070,12/08/2024 19:56
+RP0428,U0635,L00290,Inappropriate description,open,,"30 Jan 2026, 03:09 AM"
+RP0339,U0036,L03052,Item already given away,closed,U0115,2024-08-29 06:00:56
+RP0341,U0308,L02382,Item already given away,dismissed,U0115,2025-06-25 14:30:38
+RP0273,U0695,L02263,Item already given away,resolved,U0066,08/09/2025 19:37
+RP0286,U0718,L01666,category galat hai,Resolved,U0581,2026-03-27 09:42:11
+RP0004,U0660,L00157,Price/condition does not match,dismissed,U0581,2025-12-18 19:00:07
+RP0024,U0353,L02265,Spam listing,action_taken,U0066,08/10/2026 09:29
+RP0129,U0680,L01308,Spam listing,removed listing,U0681,11-17-2025 15:16
+RP0166,U0620,L02389,Wrong category,dismissed,U0070,2026-07-23 07:32:49
+RP0202,U0360,l01965,category galat hai,closed,U0581,2026-02-24 06:43:13
+RP0046,U0105,L00207,Owner not responding,Action Taken,U0070,"17 Oct 2025, 12:35 PM"
+RP0435,U0657,L03163,,open,,03/08/2026 13:14
+RP0354,U0259,L02651,Price/condition does not match,resolved,U0017,31/08/2025 05:53
+RP0236,U0021,L00012,Wrong category,resolved,U0017,2025-02-15 08:28:03
+RP0442,U0304,L02206,Fake listing?,dismissed,U0070,2025-07-11 08:19:49
+RP0238,U0360,L02745,Listing still showing but item gone,resolved,U0581,02/08/2024 18:57
+RP0043,U0206,L01667,spam / ad,dismissed,U0581,2026-05-02 08:21:50
+RP0233,U0402,L00074,spam / ad,OPEN,,2026-07-17 05:51:38
+RP0436,U0318,L01322,bhai item already de diya fir bhi dikh raha hai,action_taken,U0066,2026-01-25 06:11:24
+RP0080,U0585,L00784,Item listed in wrong category,open,,2025-02-16 23:52:33
+RP0186,U0677,L00723,Item already given away,Resolved,U0115,2026-07-31 14:29:16
+RP0464,U0231,L00936,category galat hai,Dismissed,U0115,05/05/2025 20:59
+RP0221,U0329,L00645,Owner asking for money,action_taken,U0681,03-17-2026 23:31
+RP0269,U0269,L00251,Misleading photos/description,dismissed,U0115,2025-09-08 22:44:25
+RP0113,U0092,L03035,Offensive language in listing,closed,U0070,2025-05-23 00:19:08
+RP0012,U0403,L00985,Listing still showing but item gone,Resolved,U0681,16/07/2024 10:54
+RP0151,U0273,L01801,Suspicious contact request,action_taken,U0115,06-16-2025 04:05
+RP0235,u0718,L02775,bhai item already de diya fir bhi dikh raha hai,action_taken,U0681,24/03/2026 18:31
+RP0086,U0572,L00204,Owner asking for money,Resolved,U0017,2026-02-10 13:36:18
+RP0247,U0343,L01635,,resolved,U0017,2025-01-09 12:32:04
+RP0135,U0508,L01009,Item already given away,action taken,U0017,09/10/2026 00:00
+RP0144,U0284,L02030,Listing still showing but item gone,dismissed,U0581,2025-05-19 21:42:15
+RP0409,U0078,L01114,category galat hai,rejected,U0017,2026-05-22 09:24:45
+RP0272,U0346,L02948,Item listed in wrong category,dismissed,U0681,06/02/2025 08:28
+RP0361,U0653,L01232,Looks like advertisement,action_taken,U0070,"22 Apr 2025, 01:40 AM"
+RP0291,u0468,L02350,Item listed in wrong category,resolved,U0681,"14 Mar 2026, 01:06 PM"
+RP0183,U0384,L01630,jhoota listing lag raha hai,resolved,U0017,"13 Mar 2025, 08:26 AM"
+RP0365,U0558,L03083,Owner not responding,action_taken,U0681,2025-03-13 09:05:27
+RP0307,U0399,L00250,same item posted many times,resolved,U0066,21/02/2025 04:41
+RP0453,U0307,L02822,same item posted many times,action_taken,U0581,"10 Mar 2026, 05:38 AM"
+RP0423,U0341,L00369,same item posted many times,open,,20/08/2025 13:36
+RP0424,U0602,L00964,Fake listing?,dismissed,U0066,09/10/2026 00:00
+RP0005,U0365,L02284,category galat hai,dismissed,U0017,20/06/2025 07:42
+RP0134,u0689,L03134,Owner not responding,action_taken,U0066,30/09/2024 21:23
+RP0045,U0170,L02163,category galat hai,resolved,U0017,31/01/2026 01:10
+RP0353,U0157,L00430,Item listed in wrong category,resolved,U0017,2026-05-02 00:34:14
+RP0251,U0275,L02807,Wrong category,rejected,U0681,2025-08-15 18:10:55
+RP0290,U0516,L02094,bhai item already de diya fir bhi dikh raha hai,dismissed,U0115,11/05/2026 09:47
+RP0285,U0517,L00394,jhoota listing lag raha hai,action_taken,U0581,2025-11-25 14:12:34
+RP0204,U0685,L00344,same item posted many times,action_taken,U0017,"17 Mar 2025, 11:24 PM"
+RP0136,U0350,L02040,Wrong category,resolved,U0681,2025-08-14 07:07:28
+RP0146,U0317,L01790,bhai item already de diya fir bhi dikh raha hai,dismissed,U0017,2026-07-19 11:25:30
+RP0432,U0444,L02150,Item listed in wrong category,Dismissed,U0017,2024-08-12 02:05:09
+RP0467,U0055,L00436,Asked me to pay advance,pending,,2026-03-08 09:08:21
+RP0072,U0138,L00561,spam / ad,removed listing,U0066,2025-08-28 17:21:56
+RP0119,U0035,L00356,Wrong category,resolved,U0017,09-07-2025 20:55
+RP0439,U0204,L02197,Item already given away,resolved,U0070,2025-06-04 11:01:16
+RP0140,U0718,L02758,Listing still showing but item gone,action taken,U0070,14/09/2025 06:59
+RP0394,U0202,L01975,Item listed in wrong category,Dismissed,U0017,03-09-2025 13:51
+RP0217,U0085,L01292,Owner asking for money,OPEN,,2024-08-15 18:17:10
+RP0075,U0568,L02831,Wrong category,dismissed,U0581,15/09/2024 17:33
+RP0405,U0312,L00086,Misleading photos/description,closed,U0070,2025-02-14 01:39:29
+RP0469,U0666,L01558,Owner not responding,resolved,U0115,2025-03-18 05:16:29
+RP0249,U0610,L00082,Item already given away,closed,U0017,2025-10-10 07:01:23
+RP0095,U0135,L01925,Owner not responding,resolved,U0017,21/08/2026 20:21
+RP0408,U0331,L01765,bhai item already de diya fir bhi dikh raha hai,action_taken,U0066,2026-08-16 12:53:20
+RP0407,U0476,L00515,,listing removed,U0070,08-15-2024 20:15
+RP0457,U0375,L03059,bhai item already de diya fir bhi dikh raha hai,OPEN,,15/03/2025 07:25
+RP0094,U0163,L00160,Owner not responding,open,,2024-10-29 00:17:52
+RP0019,U0528,L01674,Looks like advertisement,action_taken,U0115,08-19-2024 01:34
+RP0284,U0138,L00984,Item listed in wrong category,invalid,U0681,30/03/2025 09:42
+RP0293,U0221,L02628,category galat hai,resolved,U0581,2026-06-14 02:53:05
+RP0314,U0284,L00316,Inappropriate description,action_taken,U0070,"20 Sep 2024, 11:29 AM"
+RP0032,U0452,L02864,Price/condition does not match,Resolved,U0681,"07 Jul 2024, 11:36 PM"
+RP0322,U0191,L01091,Suspicious contact request,resolved,U0017,2026-08-01 12:43:55
+RP0141,U0688,L00368,Owner not responding,Dismissed,U0070,2026-01-19 04:52:43
+RP0090,U0120,L00850,Item already given away,resolved,U0070,2026-03-04 00:21:10
+RP0159,U0427,L00223,Spam listing,action_taken,U0070,2025-02-13 13:58:53
+RP0287,U0694,L01058,bhai item already de diya fir bhi dikh raha hai,open,,"27 Oct 2024, 03:22 PM"
+RP0343,U0505,L02703,Listing still showing but item gone,resolved,U0581,07/02/2025 00:58
+RP0349,U0443,L03187,not suitable for campus,dismissed,U0681,2024-08-20 09:48:43
+RP0142,U0588,L01457,,open,,2025-07-18 05:38:46
+RP0383,U0243,L03159,category galat hai,action_taken,U0017,2024-09-04 04:49:55
+RP0410,U0633,L01763,Price/condition does not match,action_taken,U0581,2025-11-11 16:36:09
+RP0244,U0119,L01300,Misleading photos/description,dismissed,U0681,26/12/2024 10:04
+RP0014,U0686,L01354,Spam listing,action_taken,U0070,"25 Feb 2025, 01:14 AM"
+RP0454,U0092,L02891,not suitable for campus,resolved,U0070,2025-03-22 01:42:24
+RP0078,U0411,L01361,spam / ad,action_taken,U0070,17/08/2026 07:10
+RP0468,U0499,L00826,Item listed in wrong category,listing removed,U0066,17/04/2026 15:54
+RP0180,U0619,L01097,Looks like advertisement,action_taken,U0581,2026-07-28 10:36:03
+RP0178,U0297,L02736,category galat hai,closed,U0115,2024-09-17 23:43:37
+RP0471,U0507,L00438,same item posted many times,open,,2025-08-23 00:46:02
+RP0201,U0286,L00329,Item already given away,closed,U0017,"13 Sep 2026, 11:24 PM"
+RP0034,u0317,L00338,,resolved,U0115,2025-07-16 10:52:00
+RP0063,U0676,L01971,Item listed in wrong category,resolved,U0017,13/07/2026 13:49
+RP0123,U0668,L02677,Misleading photos/description,action_taken,U0681,2025-02-24 03:20:48
+RP0364,U0619,L01286,Price/condition does not match,action_taken,U0581,2025-07-27 21:28:42
+RP0345,U0077,L03130,jhoota listing lag raha hai,closed,U0681,26/03/2025 21:16
+RP0055,U0322,L02560,Inappropriate description,action_taken,U0070,23/08/2024 13:39
+RP0396,U0108,L00890,Inappropriate description,listing removed,U0581,2024-10-14 11:32:57
+RP0240,U0711,L00505,Item already given away,resolved,U0070,08/05/2026 15:57
+RP0357,U0522,L02867,Item already given away,rejected,U0070,"27 Feb 2026, 02:56 AM"
+RP0017,U0383,L02449,Asked me to pay advance,action_taken,U0070,2025-02-27 01:23:59
+RP0372,U0593,L01032,Misleading photos/description,dismissed,U0066,2024-07-30 12:16:34
+RP0421,U0191,L01453,,pending,,17/04/2026 15:13
+RP0041,U0455,L01922,Item already given away,resolved,U0066,08-05-2025 17:31
+RP0257,U0515,L02352,Asked me to pay advance,resolved,U0070,2025-03-15 07:59:31
+RP0074,U0572,L03149,not suitable for campus,action_taken,U0070,16/12/2025 13:07
+RP0009,U0265,L03115,,dismissed,U0017,20/01/2026 04:55
+RP0003,U0665,L00172,Owner not responding,invalid,U0066,"17 Jul 2025, 09:52 AM"
+RP0414,U0443,L01205,Owner not responding,resolved,U0070,2025-12-25 12:38:35
+RP0222,U0581,L01843,jhoota listing lag raha hai,OPEN,,2026-08-29 16:47:10
+RP0474,U0585,L01323,Price/condition does not match,dismissed,U0070,2026-04-08 04:06:50
+RP0157,U0260,L02030,Item listed in wrong category,resolved,U0681,2025-05-14 10:49:17
+RP0124,U0042,L02550,Owner not responding,dismissed,U0115,2025-08-27 06:12:45
+RP0370,U0205,L02437,Price/condition does not match,removed listing,U0681,2026-02-09 21:41:29
+RP0321,U0133,L01308,Misleading photos/description,open,,2025-11-16 02:32:17
+RP0016,U0247,L01682,Listing still showing but item gone,dismissed,U0581,09-05-2026 12:20
+RP0048,U0534,L02915,Listing still showing but item gone,resolved,U0681,2026-09-16 16:15:32
+RP0126,U0198,L00518,Owner not responding,resolved,U0581,22/12/2025 07:02
+RP0266,U0068,L01210,Asked me to pay advance,open,,2026-01-16 00:04:27
